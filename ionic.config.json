@@ -1,0 +1,7 @@
+{
+  "name": "DbdApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
