@@ -1,0 +1,458 @@
+[
+    {
+        "name": "Leader",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7a/Leader.gif/revision/latest/scale-to-width-down/128?cb=20200926195734",
+        "description": "You're able to organise a team to cooperate more efficiently.\nIncreases the other Survivors' Healing, Sabotage, Unhooking, Cleansing, Exit Gate Opening, and Chest Unlocking speeds by 15/20/25\u00a0% when they are within a range of 8 metres from you.\nSurvivors can only be affected by one Leader effect at a time.\nThis effect persists on other Survivors for 15 seconds after leaving Leader's range.\n",
+        "teachables": [
+            {
+                "perk": "Bond",
+                "level": 30
+            },
+            {
+                "perk": "Prove Thyself",
+                "level": 35
+            },
+            {
+                "perk": "Leader",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Adrenaline",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/Adrenaline.gif/revision/latest/scale-to-width-down/128?cb=20200926194941",
+        "description": "You are fuelled by unexpected energy when on the verge of escape.\nInstantly heal one Health State  and sprint at 150\u00a0% of your normal Running speed for 5 seconds when the Exit Gates  are powered.\nAdrenaline is on hold if you are disabled at the moment it triggers and will instead activate upon being freed. \nIf playing against The Nightmare , Adrenaline will wake you from the Dream World upon activation.\nAdrenaline ignores an existing Exhaustion timer.\nAdrenaline triggers the Exhausted  Status Effect for 60/50/40\u00a0seconds.\nYou do not recover from Exhaustion while running.\n",
+        "teachables": [
+            {
+                "perk": "Quick & Quiet",
+                "level": 30
+            },
+            {
+                "perk": "Sprint Burst",
+                "level": 35
+            },
+            {
+                "perk": "Adrenaline",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Self-Care",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/SelfCare.gif/revision/latest/scale-to-width-down/128?cb=20200926200040",
+        "description": "Unlocks the ability to heal yourself without a Med-Kit  at 50\u00a0% of the normal Healing speed.\nIncreases the efficiency of Med-Kit self-heal by 10/15/20\u00a0%.\n",
+        "teachables": [
+            {
+                "perk": "Empathy",
+                "level": 30
+            },
+            {
+                "perk": "Botany Knowledge",
+                "level": 35
+            },
+            {
+                "perk": "Self-Care",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Saboteur",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/Saboteur.gif/revision/latest/scale-to-width-down/128?cb=20200926200012",
+        "description": "Unlocks potential in one's Aura-reading ability.\nUnlocks the ability to sabotage Hooks without a Toolbox .\n",
+        "teachables": [
+            {
+                "perk": "Iron Will",
+                "level": 30
+            },
+            {
+                "perk": "Calm Spirit",
+                "level": 35
+            },
+            {
+                "perk": "Saboteur",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Streetwise",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ef/Streetwise.gif/revision/latest/scale-to-width-down/128?cb=20200926200221",
+        "description": "Long nights out taught you to do a lot with what you've got.\nReduces Item  Consumption rate by 15/20/25\u00a0% for you and Allies within a range of 8 metres.\nOnce out of range, this effect persists for 15 seconds.\n\"You're doing it wrong! Let me show you how it's done.\" \u2014 Nea Karlsson\n",
+        "teachables": [
+            {
+                "perk": "Balanced Landing",
+                "level": 30
+            },
+            {
+                "perk": "Urban Evasion",
+                "level": 35
+            },
+            {
+                "perk": "Streetwise",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Decisive Strike",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/44/DecisiveStrike.gif/revision/latest/scale-to-width-down/128?cb=20200926195301",
+        "description": "Using whatever is at hand, you stab at your aggressor in an ultimate attempt to escape.\nAfter being unhooked or unhooking yourself, Decisive Strike will become active and usable for 40/50/60\u00a0seconds. \nWhile Decisive Strike is active, when grabbed by the Killer, succeed a Skill Check  to automatically escape the Killer's grasp and stun them for 5 seconds.\nIncreases the odds of being the Obsession.\nThe Killer can only be obsessed with one Survivor at a time.\n\"There's nothing to be scared of.\" \u2014 Laurie Strode\n",
+        "teachables": [
+            {
+                "perk": "Sole Survivor",
+                "level": 30
+            },
+            {
+                "perk": "Object of Obsession",
+                "level": 35
+            },
+            {
+                "perk": "Decisive Strike",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Ace in the Hole",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/AceInTheHole.gif/revision/latest/scale-to-width-down/128?cb=20200926194931",
+        "description": "Lady Luck always seems to be throwing something good your way.\nWhen retrieving an Item  from a Chest , there is a 100\u00a0% chance that an Add-on  of Very Rare Rarity or lower will be attached to it.\nThere is a 10/25/50\u00a0% chance to find a second Add-on of Uncommon Rarity or lower.\nAce in the Hole allows you to keep any Add-ons your Item has equipped upon escaping.\n\"Everything that glitters isn't gold. But gold isn't worth a damn in this place, so this should come in handy.\" \u2014 Ace Visconti\n",
+        "teachables": [
+            {
+                "perk": "Open-Handed",
+                "level": 30
+            },
+            {
+                "perk": "Up the Ante",
+                "level": 35
+            },
+            {
+                "perk": "Ace in the Hole",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Unbreakable",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/Unbreakable.gif/revision/latest/scale-to-width-down/128?cb=20200926200316",
+        "description": "Past battles have taught you a thing or two about survival. \nGrants the ability to fully recover from the Dying State  once per Trial.\n\"Goddammit, I am seriously FUBAR!\" \u2014 Bill Overbeck\n",
+        "teachables": [
+            {
+                "perk": "Left Behind",
+                "level": 30
+            },
+            {
+                "perk": "Borrowed Time",
+                "level": 35
+            },
+            {
+                "perk": "Unbreakable",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Alert",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e7/Alert.gif/revision/latest/scale-to-width-down/128?cb=20200501133722",
+        "description": "Your acute senses are on high alert.\nWhen the Killer breaks a Pallet  or Breakable Wall , or damages a Generator , their Aura  is revealed to you for 3/4/5\u00a0seconds.\n\"I have true sight.\" \u2014 Feng Min\n",
+        "teachables": [
+            {
+                "perk": "Technician",
+                "level": 30
+            },
+            {
+                "perk": "Lithe",
+                "level": 35
+            },
+            {
+                "perk": "Alert",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "No Mither",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/NoMither.gif/revision/latest/scale-to-width-down/128?cb=20200501134118",
+        "description": "You are affected by the Broken  Status Effect for the entire Trial.\nYour thick blood coagulates practically instantly.\n\"I lost it. Just lamped him one. They went and banned me didn't they. Went t'pub afterwards, had a few pints and moved on to the next chapter. I couldn't be mithered with it all anyway, you know what I mean? Can't be arsed.\" \u2014 David King\n",
+        "teachables": [
+            {
+                "perk": "We're Gonna Live Forever",
+                "level": 30
+            },
+            {
+                "perk": "Dead Hard",
+                "level": 35
+            },
+            {
+                "perk": "No Mither",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Vigil",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/16/Vigil.gif/revision/latest/scale-to-width-down/128?cb=20200501183028",
+        "description": "You look over your friends even in dire situations.\nYou and your Allies within a range of 8 metres recover from Exhaustion , Haemorrhage , Mangled , Hindered  and Blindness  Status Effects 10/15/20\u00a0% faster.\nOnce out of range, this effect persists for 15 seconds.\n\"I'm gonna be here when you wake up. You're gonna make it.\" \u2014 Quentin Smith\n",
+        "teachables": [
+            {
+                "perk": "Wake Up!",
+                "level": 30
+            },
+            {
+                "perk": "Pharmacy",
+                "level": 35
+            },
+            {
+                "perk": "Vigil",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Stake Out",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/StakeOut.gif/revision/latest/scale-to-width-down/128?cb=20200926200213",
+        "description": "Getting close to the Killer  fills you with determination.\nFor each 15 seconds you are standing within the Killer's Terror Radius  and are not in a Chase, you gain a Token up to a maximum of 2/3/4\u00a0Tokens.\nWhen Stake Out has at least 1 Token, Good Skill Checks  are considered Great Skill Checks, consume 1 Token, and grant an additional Progression bonus of 1\u00a0%.\n\"I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close this case!\" \u2014 Detective David Tapp\n",
+        "teachables": [
+            {
+                "perk": "Tenacity",
+                "level": 30
+            },
+            {
+                "perk": "Detective's Hunch",
+                "level": 35
+            },
+            {
+                "perk": "Stake Out",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Boil Over",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/BoilOver.gif/revision/latest/scale-to-width-down/128?cb=20200501134102",
+        "description": "You are a battler and do everything to escape a foe's grasp.\nYour Struggle Effects on the Killer are increased by 25/50/75\u00a0%.\nYou obscure the Killer's ability to the Auras  of Hooks  that are within a range of 10/12/14\u00a0metres.\n\"Buck and Wild,Swing to be free,Your hands just can't keep ahold of me.\"\u2014 Kate Denson's \"Boil Over\"\n",
+        "teachables": [
+            {
+                "perk": "Dance With Me",
+                "level": 30
+            },
+            {
+                "perk": "Windows of Opportunity",
+                "level": 35
+            },
+            {
+                "perk": "Boil Over",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Autodidact",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/Autodidact.gif/revision/latest/scale-to-width-down/128?cb=20200926195031",
+        "description": "You start the Trial with a -25\u00a0% progression penalty for Skill Checks  to heal Survivors .\nFor every successful Skill Check completed while healing a Survivor, you receive a Token for a maximum of 3/4/5\u00a0Tokens.\nEach Token grants you a +15\u00a0% bonus progression for a successful Skill Check while healing Survivors.\nGreat Skill Checks cannot be performed while using Autodidact.\nAutodidact is not active when using a Med-Kit  to heal.\n\"There's no limit to what you can achieve, as long as you back it up with hard work.\" \u2014 Adam Francis\n",
+        "teachables": [
+            {
+                "perk": "Diversion",
+                "level": 30
+            },
+            {
+                "perk": "Deliverance",
+                "level": 35
+            },
+            {
+                "perk": "Autodidact",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Distortion",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/Distortion.gif/revision/latest/scale-to-width-down/128?cb=20200501134014",
+        "description": "You start the Trial with 3 Tokens.\nWhenever the Killer reads your Aura, Distortion activates and a Token is consumed.\nFor the next 6/8/10\u00a0seconds while Distortion is activated, your Aura  will not be shown to the Killer and you will not leave any Scratch Marks .\nDistortion does not activate when you are in the Dying State  or affected by Killer Traps.\n\"'Death Fooled by the Cloak of Falcon Feathers.'Sketch inspired by a few sleepless nights during winter. Exploration of Norse mythology: bravery can conceal your flaws, even when you are at your most vulnerable.\" \u2014 Jeff, pencil on tone paper, 12x12\n",
+        "teachables": [
+            {
+                "perk": "Breakdown",
+                "level": 30
+            },
+            {
+                "perk": "Aftercare",
+                "level": 35
+            },
+            {
+                "perk": "Distortion",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Head On",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/HeadOn.gif/revision/latest/scale-to-width-down/128?cb=20200926195520",
+        "description": "When your mind is set, there better be no one standing in your way.\nWhile standing in a Locker  for 3 seconds, Head On activates.\nWhile Head On is activated, performing a rushed action to leave a Locker stuns the Killer for 3 seconds if they are standing within range.\nCauses the Exhausted  Status Effect for 60/50/40\u00a0seconds if the stun was successful.\nYou do not recover from Exhaustion while running.\nHead On cannot be used when Exhausted or when you have accrued Stillness Crows .\n\"People are remembered for the challenges they overcome. You can run away and forget what you're capable of or you can face your fears and remind the world of who you are.\" \u2014 Jane Romero\n",
+        "teachables": [
+            {
+                "perk": "Solidarity",
+                "level": 30
+            },
+            {
+                "perk": "Poised",
+                "level": 35
+            },
+            {
+                "perk": "Head On",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Mettle of Man",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/45/MettleOfMan.gif/revision/latest/scale-to-width-down/128?cb=20200926195822",
+        "description": "Evil has a way of always finding you. \nAfter you earn 3 Protection Hit Score Events, Mettle of Man activates. \nOnce activated, the next occasion that would put you into the Dying State  from the Injured State  is ignored. \nThe next time you heal back to full health, your Aura will be revealed to the Killer when you are farther than 12/14/16\u00a0metres from the Killer.\nMettle of Man will deactivate the next time you are put into the Dying State.\nIncreases the odds of being the Obsession.\nThe Killer can only be obsessed with one Survivor at a time.\n\"Evil has a bullseye on my back the size of Tiger Stadium.\" \u2014 Ash Williams\n",
+        "teachables": [
+            {
+                "perk": "Flip-Flop",
+                "level": 30
+            },
+            {
+                "perk": "Buckle Up",
+                "level": 35
+            },
+            {
+                "perk": "Mettle of Man",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Inner Strength",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/30/InnerStrength.gif/revision/latest/scale-to-width-down/128?cb=20200926195639",
+        "description": "You look inwards and trust your instincts when you feel lost and alone.\nEach time you cleanse a Totem , Inner Strength activates.\nWhile Inner Strength is activated, hiding inside a Locker  for 10/9/8\u00a0seconds when in the Injured State  or afflicted by the Deep Wound  Status Effect will automatically heal you one Health State.\nInner Strength does not activate if you are afflicted by the Broken  Status Effect.\n\"All this time I've been trying so hard to pretend like everything's fine, but it's not.\" \u2014 Nancy Wheeler\n",
+        "teachables": [
+            {
+                "perk": "Better Together",
+                "level": 30
+            },
+            {
+                "perk": "Fixated",
+                "level": 35
+            },
+            {
+                "perk": "Inner Strength",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Second Wind",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/SecondWind.gif/revision/latest/scale-to-width-down/128?cb=20200926200032",
+        "description": "You have learnt to avoid awkward situations with parents. Part of you still thinks your best option is to run away and hope things will take care of themselves.\nWhen you have healed other Survivors for the equivalent of one Health State , Second Wind activates.\nWhile Second Wind is activated, the next time you are unhooked or unhook yourself, you are affected by the Broken  Status Effect. \nAfter a total duration of 34/32/30\u00a0seconds, Second Wind automatically heals you from Injured  to the Healthy State . \nSecond Wind deactivates once you are completely healed or if you are put into the Dying State  before Second Wind successfully triggers.\nYou will lose the Broken Status Effect once Second Wind deactivates.\nSecond Wind does not activate if you are already afflicted by the Broken Status Effect.\n\"Yeah, that's a no.\" \u2014 Steve Harrington\n",
+        "teachables": [
+            {
+                "perk": "Babysitter",
+                "level": 30
+            },
+            {
+                "perk": "Camaraderie",
+                "level": 35
+            },
+            {
+                "perk": "Second Wind",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Breakout",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/50/Breakout.gif/revision/latest/scale-to-width-down/128?cb=20200501133910",
+        "description": "You kick into high gear when someone's in trouble, inspiring them to overcome any obstacle.\nWhen within 6 metres of a carried Survivor, you gain the Haste  Status Effect, moving at an increased speed of 5/6/7\u00a0%.\nThe carried Survivor's wiggle speed is increased by 20\u00a0%.\n\"Come, we're going to rip our way out of this.\" \u2014 Yui Kimura\n",
+        "teachables": [
+            {
+                "perk": "Lucky Break",
+                "level": 30
+            },
+            {
+                "perk": "Any Means Necessary",
+                "level": 35
+            },
+            {
+                "perk": "Breakout",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "For the People",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/27/ForThePeople.gif/revision/latest/scale-to-width-down/128?cb=20200501133846",
+        "description": "You risk life and injury for others.\nFor the People is only active while at full health.\nPress the Active Ability button while healing another Survivor without a Med-Kit  to instantly heal them from Dying  to Injured , or from Injured to Healthy .\nYou become Injured and receive the Broken  Status Effect for 110/100/90\u00a0seconds.\nYou become the Obsession .\nReduces the odds of being the Obsession.\nThe Killer can only be obsessed with one Survivor at a time.\n\"We can write our own story and decide how it really ends.\" \u2014 Zarina Kassir\n",
+        "teachables": [
+            {
+                "perk": "Off the Record",
+                "level": 30
+            },
+            {
+                "perk": "Red Herring",
+                "level": 35
+            },
+            {
+                "perk": "For the People",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Repressed Alliance",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/RepressedAlliance.gif/revision/latest/scale-to-width-down/128?cb=20200602102141",
+        "description": "You're accustomed to being hunted by malicious forces, and you've begun using it to your advantage.\nRepressed Alliance activates after repairing Generators  for a total of 80/70/60\u00a0seconds.\nWhen repairing a Generator while Repressed Alliance is active, press the Active Ability button to call upon the Entity to block the Generator for 30 seconds, after which Repressed Alliance deactivates.\nAffected Generators will be revealed to all Survivors by a white Aura.\n",
+        "teachables": [
+            {
+                "perk": "Soul Guard",
+                "level": 30
+            },
+            {
+                "perk": "Blood Pact",
+                "level": 35
+            },
+            {
+                "perk": "Repressed Alliance",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Built to Last",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/13/BuiltToLast.gif/revision/latest/scale-to-width-down/128?cb=20200927081957",
+        "description": "You know how to get the most out of your tools.  \nOnce per Trial, a depleted Item  will refill 30/40/50\u00a0% of its Charges after 10 seconds. \n\"Architecture is the soul of civilisation.\" \u2014 Felix Richter\n",
+        "teachables": [
+            {
+                "perk": "Visionary",
+                "level": 30
+            },
+            {
+                "perk": "Desperate Measures",
+                "level": 35
+            },
+            {
+                "perk": "Built to Last",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "name": "Power Struggle",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d6/PowerStruggle.gif/revision/latest/scale-to-width-down/128?cb=20201112100809",
+        "description": "You've never given up and you're not about to start now.\nWhile being carried by The Killer, reaching 35/30/25\u00a0% Wiggle progression activates Power Struggle.\nWhile Power Struggle is active, you can drop a nearby, standing Pallet  to stun The Killer and be released.\nPower Struggle is deactivated when it triggers successfully.\n\"I relied on others to protect me once and I lost everything. Never again.\" \u2014 \u00c9lodie Rakoto\n",
+        "teachables": [
+            {
+                "perk": "Appraisal",
+                "level": 30
+            },
+            {
+                "perk": "Deception",
+                "level": 35
+            },
+            {
+                "perk": "Power Struggle",
+                "level": 40
+            }
+        ]
+    }
+]
