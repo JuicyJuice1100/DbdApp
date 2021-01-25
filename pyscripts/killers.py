@@ -19,7 +19,8 @@ killerDiv = killersPage.find('span', id='List_of_Killers').parent.find_next('div
 #go through each div and get killer data
 for div in killerDiv:
     teachables = []
-
+    power = []
+    addons = []
 
     characterName = div.find('a').text.replace(' ','_')
     killerName = div.find('img').parent.get('title')
@@ -30,13 +31,13 @@ for div in killerDiv:
 
     #if overview is long, get the first 500 chars and add link to killer wiki
     overview = killerPage.find('span', id='Overview').parent.find_next('p').text
-    if len(overview) > 500:
-        overview = overview[0:500] + '... ({})'.format(killerURL)
+    # if len(overview) > 500:
+    #     overview = overview[0:500] + '... ({})'.format(killerURL)
 
     #if lore is long, get the first 500 chars and add link to killer wiki
     lore = killerPage.find('span', id='Overview').parent.find_next('p').text
-    if len(lore) > 500:
-        lore = lore[0:500] + '... ({})'.format(killerURL)
+    # if len(lore) > 500:
+    #     lore = lore[0:500] + '... ({})'.format(killerURL)
     
     #get teachable names and levels, name will be used as ID
     ul = killerPage.find('span', id=lambda x: x and x.endswith('Perks')).parent.find_next('ul').find_all('li')
@@ -49,9 +50,9 @@ for div in killerDiv:
         teachables.append(teachable)
 
     #get perk data
-    table = killerPage.find('span', id=lambda x: x and x.endswith('Perks')).parent.find_next('table').find_all('tr')
+    teachableTable = killerPage.find('span', id=lambda x: x and x.endswith('Perks')).parent.find_next('table').find_all('tr')
 
-    for tr in table:
+    for tr in teachableTable:
         data = tr.find_all('a')
         image = data[0].find('img').get('src')
         perkName = data[1].text
@@ -63,10 +64,39 @@ for div in killerDiv:
 
         description = ''.join([str(elem) for elem in descriptionArray])
 
-        perk = {'name': perkName, 'image': image, 'description': description}
+        perk = {'perkName': perkName, 'image': image, 'description': description}
         perks.append(perk)
+    
+    #TODO powers
 
-    killer = {'killerName': killerName, 'characterName': characterName, 'image': image, 'overview': overview, 'lore': lore,'teachables': teachables}
+    #get power data
+    powerName = killerPage.find('span', id=lambda x: x and x.startswith('Power')).text.replace('Power: ', '')
+    powerDescriptionElements = killerPage.find('span', id=lambda x: x and x.startswith('Power')).parent.find_next_siblings('p')
+
+    powerDescription = ''.join([elem.text for elem in powerDescriptionElements])
+    
+    power = {'powerName': powerName, 'powerDescription': powerDescription }
+
+    #TODO add-ons
+
+    #get add-ons
+    addonTable = killerPage.find('span', id=lambda x: x and x.startswith('Add-ons')).parent.find_next('table').find_all('tr')
+
+    for tr in addonTable[1:]:
+        descriptionArray = []
+
+        data = tr.find_all('a')
+        image = data[0].find('img').get('src')
+        addonName = data[1].text
+
+        descriptionArray.append(tr.find('td').text)
+
+        description = ''.join([elem for elem in descriptionArray])
+
+        addon = {'addonName': addonName, 'image': image, 'description': description}
+        addons.append(addon)
+
+    killer = {'killerName': killerName, 'characterName': characterName, 'image': image, 'overview': overview, 'lore': lore, 'power': power, 'teachables': teachables, 'addons': addons}
     killers.append(killer)
 
 killersJson = json.dumps(killers, indent = 4)
