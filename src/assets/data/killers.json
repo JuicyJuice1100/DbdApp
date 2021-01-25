@@ -1,0 +1,464 @@
+[
+    {
+        "killerName": "Trapper",
+        "characterName": "Evan_MacMillan",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/Agitation.gif/revision/latest/scale-to-width-down/128?cb=20200926195002",
+        "overview": "The Trapper is an area-control Killer, able to apply pressure across the Map by placing deadly Bear Traps for Survivors to step into.\n",
+        "lore": "The Trapper is an area-control Killer, able to apply pressure across the Map by placing deadly Bear Traps for Survivors to step into.\n",
+        "teachables": [
+            {
+                "perk": "Unnerving Presence",
+                "level": 30
+            },
+            {
+                "perk": "Brutal Strength",
+                "level": 35
+            },
+            {
+                "perk": "Agitation",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Wraith",
+        "characterName": "Philip_Ojomo",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/ba/Shadowborn.gif/revision/latest/scale-to-width-down/128?cb=20200926200042",
+        "overview": "The Wraith is a stealth Killer, able to cloak and uncloak at the ringing of his Wailing Bell.\n",
+        "lore": "The Wraith is a stealth Killer, able to cloak and uncloak at the ringing of his Wailing Bell.\n",
+        "teachables": [
+            {
+                "perk": "Predator",
+                "level": 30
+            },
+            {
+                "perk": "Bloodhound",
+                "level": 35
+            },
+            {
+                "perk": "Shadowborn",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Hillbilly",
+        "characterName": "Max_Thompson_Jr.",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/Tinkerer.gif/revision/latest/scale-to-width-down/128?cb=20200926200308",
+        "overview": "The Hillbilly is a high-mobility Killer, able to cover large distances in a short amount of time and instantly down Survivors using his Chainsaw.\n",
+        "lore": "The Hillbilly is a high-mobility Killer, able to cover large distances in a short amount of time and instantly down Survivors using his Chainsaw.\n",
+        "teachables": [
+            {
+                "perk": "Enduring",
+                "level": 30
+            },
+            {
+                "perk": "Lightborn",
+                "level": 35
+            },
+            {
+                "perk": "Tinkerer",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Nurse",
+        "characterName": "Sally_Smithson",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/ANursesCalling.gif/revision/latest/scale-to-width-down/128?cb=20200926195012",
+        "overview": "The Nurse is a warping Killer, able to blink through obstacles and quickly close gaps with her Power.\n",
+        "lore": "The Nurse is a warping Killer, able to blink through obstacles and quickly close gaps with her Power.\n",
+        "teachables": [
+            {
+                "perk": "Stridor",
+                "level": 30
+            },
+            {
+                "perk": "Thanatophobia",
+                "level": 35
+            },
+            {
+                "perk": "A Nurse's Calling",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Shape",
+        "characterName": "Michael_Myers",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3e/DyingLight.gif/revision/latest/scale-to-width-down/128?cb=20200926195354",
+        "overview": "The Shape is a haunting Killer, intent on monitoring Survivors from a distance to feed his Power. The more he stalks, the stronger and faster he becomes.\n",
+        "lore": "The Shape is a haunting Killer, intent on monitoring Survivors from a distance to feed his Power. The more he stalks, the stronger and faster he becomes.\n",
+        "teachables": [
+            {
+                "perk": "Save the Best for Last",
+                "level": 30
+            },
+            {
+                "perk": "Play with Your Food",
+                "level": 35
+            },
+            {
+                "perk": "Dying Light",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Hag",
+        "characterName": "Lisa_Sherwood",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bc/HexDevourHope.gif/revision/latest/scale-to-width-down/128?cb=20200926195530",
+        "overview": "The Hag is a cursed Killer, able to place Phantasm Traps and then teleport to them upon activation, using her Power.\n",
+        "lore": "The Hag is a cursed Killer, able to place Phantasm Traps and then teleport to them upon activation, using her Power.\n",
+        "teachables": [
+            {
+                "perk": "Hex: The Third Seal",
+                "level": 30
+            },
+            {
+                "perk": "Hex: Ruin",
+                "level": 35
+            },
+            {
+                "perk": "Hex: Devour Hope",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Doctor",
+        "characterName": "Herman_Carter",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/Overcharge.gif/revision/latest/scale-to-width-down/128?cb=20200501134315",
+        "overview": "The Doctor is a madness-inducing Killer, able to use his Power - Static Blast, incapacitating Survivors and causing them to hallucinate and scream in terror, revealing their position.\n",
+        "lore": "The Doctor is a madness-inducing Killer, able to use his Power - Static Blast, incapacitating Survivors and causing them to hallucinate and scream in terror, revealing their position.\n",
+        "teachables": [
+            {
+                "perk": "Overwhelming Presence",
+                "level": 30
+            },
+            {
+                "perk": "Monitor & Abuse",
+                "level": 35
+            },
+            {
+                "perk": "Overcharge",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Huntress",
+        "characterName": "Anna",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/HexHuntressLullaby.gif/revision/latest/scale-to-width-down/128?cb=20200501134249",
+        "overview": "The Huntress is a ranged Killer, able to throw Hunting Hatchets at Survivors to injure them from a distance.\n",
+        "lore": "The Huntress is a ranged Killer, able to throw Hunting Hatchets at Survivors to injure them from a distance.\n",
+        "teachables": [
+            {
+                "perk": "Beast of Prey",
+                "level": 30
+            },
+            {
+                "perk": "Territorial Imperative",
+                "level": 35
+            },
+            {
+                "perk": "Hex: Huntress Lullaby",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Cannibal",
+        "characterName": "Bubba_Sawyer",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/FranklinsDemise.gif/revision/latest/scale-to-width-down/128?cb=20200501134241",
+        "overview": "The Cannibal is a chainsaw-wielding Killer, able to trigger a deadly frenzy using his Power, immediately downing anyone in its path.\n",
+        "lore": "The Cannibal is a chainsaw-wielding Killer, able to trigger a deadly frenzy using his Power, immediately downing anyone in its path.\n",
+        "teachables": [
+            {
+                "perk": "Knock Out",
+                "level": 30
+            },
+            {
+                "perk": "Barbecue & Chilli",
+                "level": 35
+            },
+            {
+                "perk": "Franklin's Demise",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Nightmare",
+        "characterName": "Freddy_Krueger",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/95/BloodWarden.gif/revision/latest/scale-to-width-down/128?cb=20200501134848",
+        "overview": "The Nightmare is a nightmare Killer, passively pulling Survivors into his Dream World where Survivors are vulnerable to his Dream Abilities. His Dream Projection ability allows him to quickly appear across the map and put pressure onto Survivors.\n",
+        "lore": "The Nightmare is a nightmare Killer, passively pulling Survivors into his Dream World where Survivors are vulnerable to his Dream Abilities. His Dream Projection ability allows him to quickly appear across the map and put pressure onto Survivors.\n",
+        "teachables": [
+            {
+                "perk": "Fire Up",
+                "level": 30
+            },
+            {
+                "perk": "Remember Me",
+                "level": 35
+            },
+            {
+                "perk": "Blood Warden",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Pig",
+        "characterName": "Amanda_Young",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/ca/MakeYourChoice.gif/revision/latest/scale-to-width-down/128?cb=20200926195812",
+        "overview": "The Pig is a tormenting Killer, able to crouch into stealth mode, then ambush Survivors from a short distance. She can also apply Reverse Bear Traps to downed Survivors, forcing them to remove it before the timer runs out, triggering an instant death.\n",
+        "lore": "The Pig is a tormenting Killer, able to crouch into stealth mode, then ambush Survivors from a short distance. She can also apply Reverse Bear Traps to downed Survivors, forcing them to remove it before the timer runs out, triggering an instant death.\n",
+        "teachables": [
+            {
+                "perk": "Hangman's Trick",
+                "level": 30
+            },
+            {
+                "perk": "Surveillance",
+                "level": 35
+            },
+            {
+                "perk": "Make Your Choice",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Clown",
+        "characterName": "Jeffrey_Hawk",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/69/PopGoesTheWeasel.gif/revision/latest/scale-to-width-down/128?cb=20200926195919",
+        "overview": "The Clown is a strategic Killer, able to control and corral Survivors by throwing bottles of The Afterpiece Tonic to create clouds of noxious gas that cover large areas for a short amount of time. Survivors intoxicated by the gas are inflicted with impaired vision and movement speed, and give away their location by coughing loudly.\n",
+        "lore": "The Clown is a strategic Killer, able to control and corral Survivors by throwing bottles of The Afterpiece Tonic to create clouds of noxious gas that cover large areas for a short amount of time. Survivors intoxicated by the gas are inflicted with impaired vision and movement speed, and give away their location by coughing loudly.\n",
+        "teachables": [
+            {
+                "perk": "Bamboozle",
+                "level": 30
+            },
+            {
+                "perk": "Coulrophobia",
+                "level": 35
+            },
+            {
+                "perk": "Pop Goes the Weasel",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Spirit",
+        "characterName": "Rin_Yamaoka",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0b/Rancor.gif/revision/latest/scale-to-width-down/128?cb=20200926195952",
+        "overview": "The Spirit is a phase-walking Killer, able to catch Survivors off-guard with her traversal Power, Yamaoka's Haunting. Her Power allows her to teleport from one place to another without being seen.\n",
+        "lore": "The Spirit is a phase-walking Killer, able to catch Survivors off-guard with her traversal Power, Yamaoka's Haunting. Her Power allows her to teleport from one place to another without being seen.\n",
+        "teachables": [
+            {
+                "perk": "Spirit Fury",
+                "level": 30
+            },
+            {
+                "perk": "Hex: Haunted Ground",
+                "level": 35
+            },
+            {
+                "perk": "Rancor",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Legion",
+        "characterName": "Frank,_Julie,_Susie,_Joey",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9b/IronMaiden.gif/revision/latest/scale-to-width-down/128?cb=20200926195706",
+        "overview": "The Legion is a band of merciless Killers, able to rush down helpless Survivors with their power, Feral Frenzy. Attacks made during their frenzy inflict lingering internal damage, downing any Survivors that are not quick enough to react.\n",
+        "lore": "The Legion is a band of merciless Killers, able to rush down helpless Survivors with their power, Feral Frenzy. Attacks made during their frenzy inflict lingering internal damage, downing any Survivors that are not quick enough to react.\n",
+        "teachables": [
+            {
+                "perk": "Discordance",
+                "level": 30
+            },
+            {
+                "perk": "Mad Grit",
+                "level": 35
+            },
+            {
+                "perk": "Iron Maiden",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Plague",
+        "characterName": "Adiris",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/73/DarkDevotion.gif/revision/latest/scale-to-width-down/128?cb=20200926195236",
+        "overview": "The Plague is a devout Killer, able to infect Survivors from a short distance using her Power, Vile Purge. Survivors inflicted by this contamination risk becoming injured or broken, unless they find a way to cure themselves in a Pool of Devotion.\n",
+        "lore": "The Plague is a devout Killer, able to infect Survivors from a short distance using her Power, Vile Purge. Survivors inflicted by this contamination risk becoming injured or broken, unless they find a way to cure themselves in a Pool of Devotion.\n",
+        "teachables": [
+            {
+                "perk": "Corrupt Intervention",
+                "level": 30
+            },
+            {
+                "perk": "Infectious Fright",
+                "level": 35
+            },
+            {
+                "perk": "Dark Devotion",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Ghost Face",
+        "characterName": "Danny_Johnson",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3c/FurtiveChase.gif/revision/latest/scale-to-width-down/128?cb=20200926195452",
+        "overview": "The Ghost Face is a creepy Killer, able to stalk his victims and sneak up silently using his Power, Night Shroud. Affected Survivors will find themselves vulnerable and oblivious to his presence and must use all of their perception and awareness to protect themselves from his approach.\n",
+        "lore": "The Ghost Face is a creepy Killer, able to stalk his victims and sneak up silently using his Power, Night Shroud. Affected Survivors will find themselves vulnerable and oblivious to his presence and must use all of their perception and awareness to protect themselves from his approach.\n",
+        "teachables": [
+            {
+                "perk": "I'm All Ears",
+                "level": 30
+            },
+            {
+                "perk": "Thrilling Tremors",
+                "level": 35
+            },
+            {
+                "perk": "Furtive Chase",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Demogorgon",
+        "characterName": "Demogorgon",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c4/CruelLimits.gif/revision/latest/scale-to-width-down/128?cb=20200926195220",
+        "overview": "The Demogorgon is an unidentified Killer, able to open multiple Portals and traverse between them to cover large distances. Using its Power, Of the Abyss, it can detect any Survivors within a close proximity to the Portals then unleash a leaping attack to inflict damage from a distance.\n",
+        "lore": "The Demogorgon is an unidentified Killer, able to open multiple Portals and traverse between them to cover large distances. Using its Power, Of the Abyss, it can detect any Survivors within a close proximity to the Portals then unleash a leaping attack to inflict damage from a distance.\n",
+        "teachables": [
+            {
+                "perk": "Surge",
+                "level": 30
+            },
+            {
+                "perk": "Mindbreaker",
+                "level": 35
+            },
+            {
+                "perk": "Cruel Limits",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Oni",
+        "characterName": "Kazan_Yamaoka",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1b/Nemesis.gif/revision/latest/scale-to-width-down/128?cb=20200926195833",
+        "overview": "The Oni is a monstrous Killer, able to absorb the blood energy of his injured foes, and then use that energy to transform into a brutal demon. Using his power, Yamaoka's Wrath, he can rush down Survivors at great speed and deal deadly strikes with his Kanab\u014d.\n",
+        "lore": "The Oni is a monstrous Killer, able to absorb the blood energy of his injured foes, and then use that energy to transform into a brutal demon. Using his power, Yamaoka's Wrath, he can rush down Survivors at great speed and deal deadly strikes with his Kanab\u014d.\n",
+        "teachables": [
+            {
+                "perk": "Zanshin Tactics",
+                "level": 30
+            },
+            {
+                "perk": "Blood Echo",
+                "level": 35
+            },
+            {
+                "perk": "Nemesis",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Deathslinger",
+        "characterName": "Caleb_Quinn",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b5/HexRetribution.gif/revision/latest/scale-to-width-down/128?cb=20200926195550",
+        "overview": "The Deathslinger is a vengeful Killer, able to spear Survivors from a distance and reel them in using his Power, The Redeemer.\n",
+        "lore": "The Deathslinger is a vengeful Killer, able to spear Survivors from a distance and reel them in using his Power, The Redeemer.\n",
+        "teachables": [
+            {
+                "perk": "Gearhead",
+                "level": 30
+            },
+            {
+                "perk": "Dead Man's Switch",
+                "level": 35
+            },
+            {
+                "perk": "Hex: Retribution",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Executioner",
+        "characterName": "Pyramid_Head",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0b/Deathbound.gif/revision/latest/scale-to-width-down/128?cb=20200926195253",
+        "overview": "The Executioner is a map-manipulation Killer, able to torment Survivors with the hazards he creates. Affected Survivors will be vulnerable to his special Hook, the Cage of Atonement and his special mori, Final Judgement.\n",
+        "lore": "The Executioner is a map-manipulation Killer, able to torment Survivors with the hazards he creates. Affected Survivors will be vulnerable to his special Hook, the Cage of Atonement and his special mori, Final Judgement.\n",
+        "teachables": [
+            {
+                "perk": "Forced Penance",
+                "level": 30
+            },
+            {
+                "perk": "Trail of Torment",
+                "level": 35
+            },
+            {
+                "perk": "Deathbound",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Blight",
+        "characterName": "Talbot_Grimes",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/de/HexUndying.gif/revision/latest/scale-to-width-down/128?cb=20200926195621",
+        "overview": "The Blight is an unpredictable Killer, able to rush forward in a burst of speed and carom off obstacles to injure Survivors using his power, Blighted Corruption.\n",
+        "lore": "The Blight is an unpredictable Killer, able to rush forward in a burst of speed and carom off obstacles to injure Survivors using his power, Blighted Corruption.\n",
+        "teachables": [
+            {
+                "perk": "Dragon's Grip",
+                "level": 30
+            },
+            {
+                "perk": "Hex: Blood Favour",
+                "level": 35
+            },
+            {
+                "perk": "Hex: Undying",
+                "level": 40
+            }
+        ]
+    },
+    {
+        "killerName": "Twins",
+        "characterName": "Victor_&_Charlotte_Deshayes",
+        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/CoupDeGrace.gif/revision/latest/scale-to-width-down/128?cb=20210103062148",
+        "overview": "The Twins are a cooperative pair of Killers, able to divide and hunt together using their Power, Blood Bond.\n",
+        "lore": "The Twins are a cooperative pair of Killers, able to divide and hunt together using their Power, Blood Bond.\n",
+        "teachables": [
+            {
+                "perk": "Hoarder",
+                "level": 30
+            },
+            {
+                "perk": "Oppression",
+                "level": 35
+            },
+            {
+                "perk": "Coup de Gr\u00e2ce",
+                "level": 40
+            }
+        ]
+    }
+]

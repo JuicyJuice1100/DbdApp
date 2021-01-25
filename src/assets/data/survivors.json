@@ -1,8 +1,9 @@
 [
     {
-        "name": "Leader",
+        "survivorName": "Dwight Fairfield",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7a/Leader.gif/revision/latest/scale-to-width-down/128?cb=20200926195734",
-        "description": "You're able to organise a team to cooperate more efficiently.\nIncreases the other Survivors' Healing, Sabotage, Unhooking, Cleansing, Exit Gate Opening, and Chest Unlocking speeds by 15/20/25\u00a0% when they are within a range of 8 metres from you.\nSurvivors can only be affected by one Leader effect at a time.\nThis effect persists on other Survivors for 15 seconds after leaving Leader's range.\n",
+        "overview": "Dwight Fairfield is a nervous Leader, able to locate his allies and increase their effectiveness.\n",
+        "lore": "Dwight was geeky and scrawny through high school. He always wanted to be one of the cool kids, but somehow never had the charisma. He tried out for the football team but was cut, the basketball team didn't even take a look, and his grades were distinctly below average. One weekend, on a team-building exercise from his dead-end job, Dwight's boss led them deep into the woods before breaking out his family recipe moonshine. Dwight remembered taking the first sip before waking up late the next morn... (https://deadbydaylight.fandom.com/wiki/Dwight_Fairfield)",
         "teachables": [
             {
                 "perk": "Bond",
@@ -19,9 +20,10 @@
         ]
     },
     {
-        "name": "Adrenaline",
+        "survivorName": "Meg Thomas",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/Adrenaline.gif/revision/latest/scale-to-width-down/128?cb=20200926194941",
-        "description": "You are fuelled by unexpected energy when on the verge of escape.\nInstantly heal one Health State  and sprint at 150\u00a0% of your normal Running speed for 5 seconds when the Exit Gates  are powered.\nAdrenaline is on hold if you are disabled at the moment it triggers and will instead activate upon being freed. \nIf playing against The Nightmare , Adrenaline will wake you from the Dream World upon activation.\nAdrenaline ignores an existing Exhaustion timer.\nAdrenaline triggers the Exhausted  Status Effect for 60/50/40\u00a0seconds.\nYou do not recover from Exhaustion while running.\n",
+        "overview": "Meg Thomas is an energetic Athlete, able to outrun most Killers.\n",
+        "lore": "Perhaps it was her mother that had instilled the fierce streak in her or maybe it was her father that left them when she was a baby. Meg excelled at schoolwork but she was off the rails. Fortunately, an athletics coach encouraged her to channel her misspent energy on the track. She motivated herself into becoming a high school star and earned a scholarship to college. When her mother fell ill, Meg decided to give up her chance at college to care for the woman who had raised her. One summer\u2019s day... (https://deadbydaylight.fandom.com/wiki/Meg_Thomas)",
         "teachables": [
             {
                 "perk": "Quick & Quiet",
@@ -38,9 +40,10 @@
         ]
     },
     {
-        "name": "Self-Care",
+        "survivorName": "Claudette Morel",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/SelfCare.gif/revision/latest/scale-to-width-down/128?cb=20200926200040",
-        "description": "Unlocks the ability to heal yourself without a Med-Kit  at 50\u00a0% of the normal Healing speed.\nIncreases the efficiency of Med-Kit self-heal by 10/15/20\u00a0%.\n",
+        "overview": "Claudette Morel is a studious Botanist, able to boost her team's survivability as well as her own.\n",
+        "lore": "From the day that her parents gave Claudette her first science kit, she loved experiments. Her single-minded pursuit lead to an early scholarship at a great college. It was a huge decision to leave Montreal, but the chance was too good to pass up. Her introverted nature means that chat rooms and forums are now her best source of social interaction. Her new favourite activity is to answer botany questions for others under her new moniker of Science Girl. One evening, during a long bus ride back f... (https://deadbydaylight.fandom.com/wiki/Claudette_Morel)",
         "teachables": [
             {
                 "perk": "Empathy",
@@ -57,9 +60,10 @@
         ]
     },
     {
-        "name": "Saboteur",
+        "survivorName": "Jake Park",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/Saboteur.gif/revision/latest/scale-to-width-down/128?cb=20200926200012",
-        "description": "Unlocks potential in one's Aura-reading ability.\nUnlocks the ability to sabotage Hooks without a Toolbox .\n",
+        "overview": "Jake Park is a solitary Survivalist, able to hold his own in most situations.\n",
+        "lore": "Growing up the son of a wealthy CEO was always going to put pressure on Jake Park. When his brother graduated with honours from Yale, the pressure on Jake intensified. Jake just wasn't the academic type, but his father never really understood his refusal to embrace the expensive education he lavished upon him. Eventually, Jake rebelled by dropping out of school entirely. Now, Jake lives off the grid on the edge of the woods. It's been years since he spoke to his father but his mother checks in o... (https://deadbydaylight.fandom.com/wiki/Jake_Park)",
         "teachables": [
             {
                 "perk": "Iron Will",
@@ -76,9 +80,10 @@
         ]
     },
     {
-        "name": "Streetwise",
+        "survivorName": "Nea Karlsson",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ef/Streetwise.gif/revision/latest/scale-to-width-down/128?cb=20200926200221",
-        "description": "Long nights out taught you to do a lot with what you've got.\nReduces Item  Consumption rate by 15/20/25\u00a0% for you and Allies within a range of 8 metres.\nOnce out of range, this effect persists for 15 seconds.\n\"You're doing it wrong! Let me show you how it's done.\" \u2014 Nea Karlsson\n",
+        "overview": "Nea Karlsson is an Urban Artist, able to easily escape and hide.\n",
+        "lore": "Nea is of Swedish descent, a tagger and a bit of a troublemaker. She started rebelling when she was 16, she dyed her hair black and cut it in a way she liked it. In her early teens, her parents thought she lacked that thing that makes everyone else \"normal\". She may have gone too far when her friends, not thinking well, dared her to tag the old asylum. She was never seen again, and now tries her best to survive the Entity's dangers.\n",
         "teachables": [
             {
                 "perk": "Balanced Landing",
@@ -95,9 +100,10 @@
         ]
     },
     {
-        "name": "Decisive Strike",
+        "survivorName": "Laurie Strode",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/44/DecisiveStrike.gif/revision/latest/scale-to-width-down/128?cb=20200926195301",
-        "description": "Using whatever is at hand, you stab at your aggressor in an ultimate attempt to escape.\nAfter being unhooked or unhooking yourself, Decisive Strike will become active and usable for 40/50/60\u00a0seconds. \nWhile Decisive Strike is active, when grabbed by the Killer, succeed a Skill Check  to automatically escape the Killer's grasp and stun them for 5 seconds.\nIncreases the odds of being the Obsession.\nThe Killer can only be obsessed with one Survivor at a time.\n\"There's nothing to be scared of.\" \u2014 Laurie Strode\n",
+        "overview": "Laurie Strode is a determined Survivor, prepared to weather any challenge.\n",
+        "lore": "You never know what really matters in life until you've realised it might end soon. Laurie is one of those who just wants a quiet life in the suburbs, hanging out with friends, family and maybe go on a date or two. Laurie is a typical teenager. You could pass her on the street and not think twice. She does her homework and is liked by her friends, teachers and family. A simple night of babysitting turns into something that will forever change the course of her young life. A knife swooshing throu... (https://deadbydaylight.fandom.com/wiki/Laurie_Strode)",
         "teachables": [
             {
                 "perk": "Sole Survivor",
@@ -114,9 +120,10 @@
         ]
     },
     {
-        "name": "Ace in the Hole",
+        "survivorName": "Ace Visconti",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/AceInTheHole.gif/revision/latest/scale-to-width-down/128?cb=20200926194931",
-        "description": "Lady Luck always seems to be throwing something good your way.\nWhen retrieving an Item  from a Chest , there is a 100\u00a0% chance that an Add-on  of Very Rare Rarity or lower will be attached to it.\nThere is a 10/25/50\u00a0% chance to find a second Add-on of Uncommon Rarity or lower.\nAce in the Hole allows you to keep any Add-ons your Item has equipped upon escaping.\n\"Everything that glitters isn't gold. But gold isn't worth a damn in this place, so this should come in handy.\" \u2014 Ace Visconti\n",
+        "overview": "Ace Visconti is a lucky Gambler, improving the odds of the entire team.\n",
+        "lore": "Ace Visconti is one charming guy. With his sharp Italian looks, grey-streaked hair and silver tongue, he could pass for an ageing 50's movies star. His heart has always belonged to the cards. From his roots as a poor boy in Argentina, he gambled, scammed, seduced and smooth-talked his way to a life of luxury as a high roller in the land of opportunity. Despite money always having a way of slipping through his fingers, Ace always figured he could win more. He never fulfilled that ambition; eventu... (https://deadbydaylight.fandom.com/wiki/Ace_Visconti)",
         "teachables": [
             {
                 "perk": "Open-Handed",
@@ -133,9 +140,10 @@
         ]
     },
     {
-        "name": "Unbreakable",
+        "survivorName": "William \"Bill\" Overbeck",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/Unbreakable.gif/revision/latest/scale-to-width-down/128?cb=20200926200316",
-        "description": "Past battles have taught you a thing or two about survival. \nGrants the ability to fully recover from the Dying State  once per Trial.\n\"Goddammit, I am seriously FUBAR!\" \u2014 Bill Overbeck\n",
+        "overview": "Bill Overbeck is an old Soldier, accustomed to dealing with critical situations.\n",
+        "lore": "It took two tours in Vietnam, a handful of medals, a knee full of shrapnel, and an honourable discharge to get William \"Bill\" Overbeck to stop fighting and try to live a peaceful life. He hated it. After decades spent drifting aimlessly through dead end jobs, Bill went in for a routine surgery and woke up to find the world he knew was gone. A plague was turning normal people into mindless killing machines. Naturally, the first thing he did was fight his way home and put on his uniform. Making hi... (https://deadbydaylight.fandom.com/wiki/William_\"Bill\"_Overbeck)",
         "teachables": [
             {
                 "perk": "Left Behind",
@@ -152,9 +160,10 @@
         ]
     },
     {
-        "name": "Alert",
+        "survivorName": "Feng Min",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e7/Alert.gif/revision/latest/scale-to-width-down/128?cb=20200501133722",
-        "description": "Your acute senses are on high alert.\nWhen the Killer breaks a Pallet  or Breakable Wall , or damages a Generator , their Aura  is revealed to you for 3/4/5\u00a0seconds.\n\"I have true sight.\" \u2014 Feng Min\n",
+        "overview": "Feng Min is an objective-focused competitor who can quickly adapt her strategy to meet a vast range of challenging situations.\n",
+        "lore": "Feng Min was a young girl when she first picked up computer games, and she was instantly hooked. The brand new worlds enchanted her with colours, sounds and explosions \u2013 a chance to be somewhere else, or someone else. Her parents saw no wrong with a few minutes in front of the screen, but as minutes turned into hours and sometimes days, they finally decided to pull the plug and force Feng Min to put more efforts into her studies.\n",
         "teachables": [
             {
                 "perk": "Technician",
@@ -171,9 +180,10 @@
         ]
     },
     {
-        "name": "No Mither",
+        "survivorName": "David King",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/NoMither.gif/revision/latest/scale-to-width-down/128?cb=20200501134118",
-        "description": "You are affected by the Broken  Status Effect for the entire Trial.\nYour thick blood coagulates practically instantly.\n\"I lost it. Just lamped him one. They went and banned me didn't they. Went t'pub afterwards, had a few pints and moved on to the next chapter. I couldn't be mithered with it all anyway, you know what I mean? Can't be arsed.\" \u2014 David King\n",
+        "overview": "David King is a rugged Scrapper, rewarding high-risk play.\n",
+        "lore": "The single child of a wealthy family,\u00a0David King\u00a0seemed destined for greatness. While growing up in\u00a0Manchester, he demonstrated serious potential in both sports and academics, and with his family connections, all doors were open to him. He could have succeeded at anything, if it weren't for his combative nature. David lived for the adrenaline rush of a good fight and would go out of his way to get into one.\n",
         "teachables": [
             {
                 "perk": "We're Gonna Live Forever",
@@ -190,9 +200,10 @@
         ]
     },
     {
-        "name": "Vigil",
+        "survivorName": "Quentin Smith",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/16/Vigil.gif/revision/latest/scale-to-width-down/128?cb=20200501183028",
-        "description": "You look over your friends even in dire situations.\nYou and your Allies within a range of 8 metres recover from Exhaustion , Haemorrhage , Mangled , Hindered  and Blindness  Status Effects 10/15/20\u00a0% faster.\nOnce out of range, this effect persists for 15 seconds.\n\"I'm gonna be here when you wake up. You're gonna make it.\" \u2014 Quentin Smith\n",
+        "overview": "Quentin Smith is a resolute Dreamwalker, increasing the survivability and recovery of his team.\n",
+        "lore": "When he heard that Nancy's mother had disappeared, Quentin Smith knew instantly that their success had been short-lived. Although their plan had seemed to work flawlessly, Freddy Krueger had beaten death yet again.\n",
         "teachables": [
             {
                 "perk": "Wake Up!",
@@ -209,9 +220,10 @@
         ]
     },
     {
-        "name": "Stake Out",
+        "survivorName": "David Tapp",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/StakeOut.gif/revision/latest/scale-to-width-down/128?cb=20200926200213",
-        "description": "Getting close to the Killer  fills you with determination.\nFor each 15 seconds you are standing within the Killer's Terror Radius  and are not in a Chase, you gain a Token up to a maximum of 2/3/4\u00a0Tokens.\nWhen Stake Out has at least 1 Token, Good Skill Checks  are considered Great Skill Checks, consume 1 Token, and grant an additional Progression bonus of 1\u00a0%.\n\"I had you, I had you on your knees. You're runnin' scared because we had you. We're gonna close this case!\" \u2014 Detective David Tapp\n",
+        "overview": "David Tapp is an obsessed Detective, able to locate and complete Objectives faster.\n",
+        "lore": "Detective David Tapp was one of the good guys. His determination to see Killers brought to justice and their victims avenged had led him through a long and respected career.\n",
         "teachables": [
             {
                 "perk": "Tenacity",
@@ -228,9 +240,10 @@
         ]
     },
     {
-        "name": "Boil Over",
+        "survivorName": "Kate Denson",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/BoilOver.gif/revision/latest/scale-to-width-down/128?cb=20200501134102",
-        "description": "You are a battler and do everything to escape a foe's grasp.\nYour Struggle Effects on the Killer are increased by 25/50/75\u00a0%.\nYou obscure the Killer's ability to the Auras  of Hooks  that are within a range of 10/12/14\u00a0metres.\n\"Buck and Wild,Swing to be free,Your hands just can't keep ahold of me.\"\u2014 Kate Denson's \"Boil Over\"\n",
+        "overview": "Kate Denson is a hopeful songbird, able to make the most of her surroundings.\n",
+        "lore": "One of Kate Denson's earliest memories was standing in front of her family, singing a song that she'd learned that morning at school, and watching smiles spread across their faces. Seeing how something as simple as a song could make people so happy was the moment when she knew what she wanted to do with her life.\n",
         "teachables": [
             {
                 "perk": "Dance With Me",
@@ -247,9 +260,10 @@
         ]
     },
     {
-        "name": "Autodidact",
+        "survivorName": "Adam Francis",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/Autodidact.gif/revision/latest/scale-to-width-down/128?cb=20200926195031",
-        "description": "You start the Trial with a -25\u00a0% progression penalty for Skill Checks  to heal Survivors .\nFor every successful Skill Check completed while healing a Survivor, you receive a Token for a maximum of 3/4/5\u00a0Tokens.\nEach Token grants you a +15\u00a0% bonus progression for a successful Skill Check while healing Survivors.\nGreat Skill Checks cannot be performed while using Autodidact.\nAutodidact is not active when using a Med-Kit  to heal.\n\"There's no limit to what you can achieve, as long as you back it up with hard work.\" \u2014 Adam Francis\n",
+        "overview": "Adam Francis is a resourceful Teacher, able to adapt to new circumstances and develop strategies accordingly.\n",
+        "lore": "Adam was born in Rollington Town in Kingston, Jamaica. His father died in a car accident when he was two, and his uncle took him in. His uncle was a strict, but fair man, who raised him to value education.\n",
         "teachables": [
             {
                 "perk": "Diversion",
@@ -266,9 +280,10 @@
         ]
     },
     {
-        "name": "Distortion",
+        "survivorName": "Jeffrey \"Jeff\" Johansen",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/Distortion.gif/revision/latest/scale-to-width-down/128?cb=20200501134014",
-        "description": "You start the Trial with 3 Tokens.\nWhenever the Killer reads your Aura, Distortion activates and a Token is consumed.\nFor the next 6/8/10\u00a0seconds while Distortion is activated, your Aura  will not be shown to the Killer and you will not leave any Scratch Marks .\nDistortion does not activate when you are in the Dying State  or affected by Killer Traps.\n\"'Death Fooled by the Cloak of Falcon Feathers.'Sketch inspired by a few sleepless nights during winter. Exploration of Norse mythology: bravery can conceal your flaws, even when you are at your most vulnerable.\" \u2014 Jeff, pencil on tone paper, 12x12\n",
+        "overview": "Jeff Johansen is a quiet artist with a heart of gold, standing steadfast against impossible odds. He has a dark past but led a quiet, simple life until his father passed, leaving things to sort out.\n",
+        "lore": "Jeff Johansen was born and raised in Ormond, Alberta. He grew up as a quiet, only child with an aversion for large crowds. During High School, his anxious nature was mislabelled as shyness, which he covered up with a tough, stoic persona that intimidated bullies and teachers alike. At home, he discovered an interest for heavy metal and started a vinyl collection. The evocative symbolism on the covers inspired him to make some art of his own, which helped him cope with his parents' constant fight... (https://deadbydaylight.fandom.com/wiki/Jeffrey_\"Jeff\"_Johansen)",
         "teachables": [
             {
                 "perk": "Breakdown",
@@ -285,9 +300,10 @@
         ]
     },
     {
-        "name": "Head On",
+        "survivorName": "Jane Romero",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/HeadOn.gif/revision/latest/scale-to-width-down/128?cb=20200926195520",
-        "description": "When your mind is set, there better be no one standing in your way.\nWhile standing in a Locker  for 3 seconds, Head On activates.\nWhile Head On is activated, performing a rushed action to leave a Locker stuns the Killer for 3 seconds if they are standing within range.\nCauses the Exhausted  Status Effect for 60/50/40\u00a0seconds if the stun was successful.\nYou do not recover from Exhaustion while running.\nHead On cannot be used when Exhausted or when you have accrued Stillness Crows .\n\"People are remembered for the challenges they overcome. You can run away and forget what you're capable of or you can face your fears and remind the world of who you are.\" \u2014 Jane Romero\n",
+        "overview": "Jane Romero is an influential celebrity, going against the grain to tackle challenges head on.\n",
+        "lore": "Jane Romero was the daughter of famous actress, Loretta Lawrence, of whom she had no memory. Her parents had separated when she was still a baby, mainly since her mother was often away filming. Jane was raised by her father, a struggling visual artist. She grew up torn between resenting her mother's absence from her life and admiring her presence on screen.\n",
         "teachables": [
             {
                 "perk": "Solidarity",
@@ -304,9 +320,10 @@
         ]
     },
     {
-        "name": "Mettle of Man",
+        "survivorName": "Ash J. Williams",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/45/MettleOfMan.gif/revision/latest/scale-to-width-down/128?cb=20200926195822",
-        "description": "Evil has a way of always finding you. \nAfter you earn 3 Protection Hit Score Events, Mettle of Man activates. \nOnce activated, the next occasion that would put you into the Dying State  from the Injured State  is ignored. \nThe next time you heal back to full health, your Aura will be revealed to the Killer when you are farther than 12/14/16\u00a0metres from the Killer.\nMettle of Man will deactivate the next time you are put into the Dying State.\nIncreases the odds of being the Obsession.\nThe Killer can only be obsessed with one Survivor at a time.\n\"Evil has a bullseye on my back the size of Tiger Stadium.\" \u2014 Ash Williams\n",
+        "overview": "Ash Williams is an alone wolf, cocky and headstrong; a man built for survival.\n",
+        "lore": "During a weekend at a cabin with friends, Ash Williams uncovered the Necronomicon Ex-Mortis (The Book of the Dead) and awoke something dark in the woods. Evil possessed his friends, whom he was forced to kill, and his right hand, which he sawed off. For the next thirty years, Ash ran from his past, working at a Value Stop department store and seducing women in dive bars. But he screwed up one night while being high, when he read from the Necronomicon to impress a woman. Evil found him once more,... (https://deadbydaylight.fandom.com/wiki/Ash_J._Williams)",
         "teachables": [
             {
                 "perk": "Flip-Flop",
@@ -323,9 +340,10 @@
         ]
     },
     {
-        "name": "Inner Strength",
+        "survivorName": "Nancy Wheeler",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/30/InnerStrength.gif/revision/latest/scale-to-width-down/128?cb=20200926195639",
-        "description": "You look inwards and trust your instincts when you feel lost and alone.\nEach time you cleanse a Totem , Inner Strength activates.\nWhile Inner Strength is activated, hiding inside a Locker  for 10/9/8\u00a0seconds when in the Injured State  or afflicted by the Deep Wound  Status Effect will automatically heal you one Health State.\nInner Strength does not activate if you are afflicted by the Broken  Status Effect.\n\"All this time I've been trying so hard to pretend like everything's fine, but it's not.\" \u2014 Nancy Wheeler\n",
+        "overview": "Nancy Wheeler is an aspiring journalist, able to make acute observations and gain insights that others may miss.\n",
+        "lore": "Studious and rebellious, Nancy Wheeler is a stubborn investigator with an instinct for a good story. When her closest friend, Barb went missing, she did everything she could to unravel the truth and secure justice. A brilliant journalist, she chases stories and follows leads despite the inequality and chauvinism she encounters at the workplace. Pursuing a lead one evening, she fearlessly approaches the Hawkins National Laboratory before suddenly losing consciousness. A moment later she awakens i... (https://deadbydaylight.fandom.com/wiki/Nancy_Wheeler)",
         "teachables": [
             {
                 "perk": "Better Together",
@@ -342,9 +360,10 @@
         ]
     },
     {
-        "name": "Second Wind",
+        "survivorName": "Steve Harrington",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/SecondWind.gif/revision/latest/scale-to-width-down/128?cb=20200926200032",
-        "description": "You have learnt to avoid awkward situations with parents. Part of you still thinks your best option is to run away and hope things will take care of themselves.\nWhen you have healed other Survivors for the equivalent of one Health State , Second Wind activates.\nWhile Second Wind is activated, the next time you are unhooked or unhook yourself, you are affected by the Broken  Status Effect. \nAfter a total duration of 34/32/30\u00a0seconds, Second Wind automatically heals you from Injured  to the Healthy State . \nSecond Wind deactivates once you are completely healed or if you are put into the Dying State  before Second Wind successfully triggers.\nYou will lose the Broken Status Effect once Second Wind deactivates.\nSecond Wind does not activate if you are already afflicted by the Broken Status Effect.\n\"Yeah, that's a no.\" \u2014 Steve Harrington\n",
+        "overview": "Steve Harrington is a former jock, able to protect and support his fellow Survivors while providing his own brand of humour.\n",
+        "lore": "Popular and arrogant, yet compassionate, Steve Harrington is an unlikely mentor and leader. He often acts as a surrogate big brother to a younger boy named Dustin. He even helped him find his slimy inter-dimensional pet Demogorgon, D'Artagnan.  His reputation as a protector grew and he soon became a sort of \"babysitter\" for a group of kids in Hawkins with a knack for messing around with strange and dangerous things. His courage is unmatched so that he was even able to fend off a Demogorgon when ... (https://deadbydaylight.fandom.com/wiki/Steve_Harrington)",
         "teachables": [
             {
                 "perk": "Babysitter",
@@ -361,9 +380,10 @@
         ]
     },
     {
-        "name": "Breakout",
+        "survivorName": "Yui Kimura",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/50/Breakout.gif/revision/latest/scale-to-width-down/128?cb=20200501133910",
-        "description": "You kick into high gear when someone's in trouble, inspiring them to overcome any obstacle.\nWhen within 6 metres of a carried Survivor, you gain the Haste  Status Effect, moving at an increased speed of 5/6/7\u00a0%.\nThe carried Survivor's wiggle speed is increased by 20\u00a0%.\n\"Come, we're going to rip our way out of this.\" \u2014 Yui Kimura\n",
+        "overview": "Yui Kimura is a hardened street racer, able to gain advantages for her and her fellow Survivors in challenging situations.\n",
+        "lore": "Despite her traditional upbringing, Yui Kimura raced scooters in her hometown of Hida where she earned the reputation of being able to do the impossible with very little. Her father did his best to steer her away from what he believed to be masculine pursuits, but her grandmother secretly shared her grandfather's engineer manuals and notes on car and motorcycle engines. Yui read her grandfather's manuals and learned fast. She was able to not only maintain her scooter, but she modified the engine... (https://deadbydaylight.fandom.com/wiki/Yui_Kimura)",
         "teachables": [
             {
                 "perk": "Lucky Break",
@@ -380,9 +400,10 @@
         ]
     },
     {
-        "name": "For the People",
+        "survivorName": "Zarina Kassir",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/27/ForThePeople.gif/revision/latest/scale-to-width-down/128?cb=20200501133846",
-        "description": "You risk life and injury for others.\nFor the People is only active while at full health.\nPress the Active Ability button while healing another Survivor without a Med-Kit  to instantly heal them from Dying  to Injured , or from Injured to Healthy .\nYou become Injured and receive the Broken  Status Effect for 110/100/90\u00a0seconds.\nYou become the Obsession .\nReduces the odds of being the Obsession.\nThe Killer can only be obsessed with one Survivor at a time.\n\"We can write our own story and decide how it really ends.\" \u2014 Zarina Kassir\n",
+        "overview": "Zarina Kassir is a plucky documentarian, able to use her street smarts to avoid detection and greatly assist other Survivors.\n",
+        "lore": "Growing up in a Lebanese household in Brooklyn, Zarina struggled with two unique cultural identities. She felt that this cultural difference painted a target on her back. To avoid ridicule and bullies, she observed what popular kids liked and learnt to project the image they preferred. At school, she would go by the name \"Karina\", dye her hair lighter, and trash her \"foreign\" lunches.\n",
         "teachables": [
             {
                 "perk": "Off the Record",
@@ -399,9 +420,10 @@
         ]
     },
     {
-        "name": "Repressed Alliance",
+        "survivorName": "Cheryl Mason",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/RepressedAlliance.gif/revision/latest/scale-to-width-down/128?cb=20200602102141",
-        "description": "You're accustomed to being hunted by malicious forces, and you've begun using it to your advantage.\nRepressed Alliance activates after repairing Generators  for a total of 80/70/60\u00a0seconds.\nWhen repairing a Generator while Repressed Alliance is active, press the Active Ability button to call upon the Entity to block the Generator for 30 seconds, after which Repressed Alliance deactivates.\nAffected Generators will be revealed to all Survivors by a white Aura.\n",
+        "overview": "Cheryl Mason is a young Veteran of Terror, emboldening both herself and her team.\n",
+        "lore": "Caring and impulsive, Cheryl Mason, previously known as Heather, attempted to rebuild her life after the tragic death of her adoptive father, Harry Mason.\n",
         "teachables": [
             {
                 "perk": "Soul Guard",
@@ -418,9 +440,10 @@
         ]
     },
     {
-        "name": "Built to Last",
+        "survivorName": "Felix Richter",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/13/BuiltToLast.gif/revision/latest/scale-to-width-down/128?cb=20200927081957",
-        "description": "You know how to get the most out of your tools.  \nOnce per Trial, a depleted Item  will refill 30/40/50\u00a0% of its Charges after 10 seconds. \n\"Architecture is the soul of civilisation.\" \u2014 Felix Richter\n",
+        "overview": "Felix Richter is a visionary architect, able to use his relentless determination to form a plan and help other Survivors.\n",
+        "lore": "Felix Richter was born to Janos and Ursula Richter in Coburg, Germany, where the Richter family had deep connections and were among the most respected of its physicians. His parents, both members of an ancient society, were always out of the Richter manor at medical conferences or providing humanitarian aid around the world. Travelling exposed young Felix to new cultures, languages, and architecture unlike anything he had ever seen before. He wasn't sure when the architectural bug bit, but when ... (https://deadbydaylight.fandom.com/wiki/Felix_Richter)",
         "teachables": [
             {
                 "perk": "Visionary",
@@ -437,9 +460,10 @@
         ]
     },
     {
-        "name": "Power Struggle",
+        "survivorName": "\u00c9lodie Rakoto",
         "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d6/PowerStruggle.gif/revision/latest/scale-to-width-down/128?cb=20201112100809",
-        "description": "You've never given up and you're not about to start now.\nWhile being carried by The Killer, reaching 35/30/25\u00a0% Wiggle progression activates Power Struggle.\nWhile Power Struggle is active, you can drop a nearby, standing Pallet  to stun The Killer and be released.\nPower Struggle is deactivated when it triggers successfully.\n\"I relied on others to protect me once and I lost everything. Never again.\" \u2014 \u00c9lodie Rakoto\n",
+        "overview": "\u00c9lodie Rakoto is an occult investigator, able to use cunning tricks and stubborn resolve to keep herself alive.\n",
+        "lore": "Born into a lush Parisian household, \u00c9lodie Rakoto grew up in a comfortable home miles away from the verdant island of Madagascar, her parents' birthplace. Her backpack was always heavy and usually contained no schoolwork. She carried the essentials: a few history books, some printed maps, and a compact shovel. Instead of wasting away with regurgitated facts from her classes, she explored the city to discover the stories behind each statue, neighbourhood, and street sign. She collected bits and ... (https://deadbydaylight.fandom.com/wiki/\u00c9lodie_Rakoto)",
         "teachables": [
             {
                 "perk": "Appraisal",

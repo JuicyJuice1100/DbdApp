@@ -21,16 +21,21 @@ for div in survivorDiv:
     teachables = []
 
 
-    name = div.find('a').text.replace(' ','_')
+    survivorName = div.find('a').text
     image = div.find('img').get('src')
 
-    survivorURL = BASEURL + name
+    survivorURL = BASEURL + survivorName.replace(' ','_')
     survivorPage = getSoupPage(survivorURL)
 
-    #if description is long, get the first 500 chars and add link to survivor wiki
-    description = survivorPage.find('span', id='Lore').parent.find_next('p').text
-    if len(description) > 500:
-        description = description[0:500] + '... ({})'.format(survivorURL)
+    #if overview is long, get the first 500 chars and add link to survivor wiki
+    overview = survivorPage.find('span', id='Overview').parent.find_next('p').text
+    if len(overview) > 500:
+        overview = overview[0:500] + '... ({})'.format(survivorURL)
+
+    #if lore is long, get the first 500 chars and add link to survivor wiki
+    lore = survivorPage.find('span', id='Lore').parent.find_next('p').text
+    if len(lore) > 500:
+        lore = lore[0:500] + '... ({})'.format(survivorURL)
     
     #get teachable names and levels, name will be used as ID
     ul = survivorPage.find('span', id=lambda x: x and x.endswith('Perks')).parent.find_next('ul').find_all('li')
@@ -48,7 +53,7 @@ for div in survivorDiv:
     for tr in table:
         data = tr.find_all('a')
         image = data[0].find('img').get('src')
-        name = data[1].text
+        perkName = data[1].text
 
         descriptionArray = []
 
@@ -57,10 +62,10 @@ for div in survivorDiv:
 
         description = ''.join([str(elem) for elem in descriptionArray])
 
-        perk = {'name': name, 'image': image, 'description': description}
+        perk = {'name': perkName, 'image': image, 'description': description}
         perks.append(perk)
 
-    survivor = {'name': name, 'image': image, 'description': description, 'teachables': teachables}
+    survivor = {'survivorName': survivorName, 'image': image, 'overview': overview, 'lore': lore, 'teachables': teachables}
     survivors.append(survivor)
 
 survivorsJson = json.dumps(survivors, indent = 4)
@@ -69,6 +74,5 @@ perksJson = json.dumps(perks, indent = 4)
 with open('../src/assets/data/survivors.json', 'w') as outfile:
     outfile.write(survivorsJson)
 
-with open('../src/assets/data/perks.json', 'w') as outfile:
+with open('../src/assets/data/survivorPerks.json', 'w') as outfile:
     outfile.write(perksJson)
-
