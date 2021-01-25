@@ -27,15 +27,11 @@ for div in survivorDiv:
     survivorURL = BASEURL + survivorName.replace(' ','_')
     survivorPage = getSoupPage(survivorURL)
 
-    #if overview is long, get the first 500 chars and add link to survivor wiki
+    #get overview
     overview = survivorPage.find('span', id='Overview').parent.find_next('p').text
-    # if len(overview) > 500:
-    #     overview = overview[0:500] + '... ({})'.format(survivorURL)
 
-    #if lore is long, get the first 500 chars and add link to survivor wiki
+    #get lore
     lore = survivorPage.find('span', id='Lore').parent.find_next('p').text
-    # if len(lore) > 500:
-    #     lore = lore[0:500] + '... ({})'.format(survivorURL)
     
     #get teachable names and levels, name will be used as ID
     ul = survivorPage.find('span', id=lambda x: x and x.endswith('Perks')).parent.find_next('ul').find_all('li')
