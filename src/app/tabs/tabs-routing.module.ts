@@ -20,15 +20,19 @@ const routes: Routes = [
         loadChildren: () => import('../tab3/tab3.module').then(m => m.Tab3PageModule)
       },
       {
+        path: 'myBuilds',
+        loadChildren: () => import('../my-builds/my-builds-routing.module').then(m => m.MyBuildsPageRoutingModule)
+      },
+      {
         path: '',
-        redirectTo: '/tabs/tab1',
+        redirectTo: '/tabs/myBuilds',
         pathMatch: 'full'
       }
     ]
   },
   {
     path: '',
-    redirectTo: '/tabs/tab1',
+    redirectTo: '/tabs/myBuilds',
     pathMatch: 'full'
   }
 ];
