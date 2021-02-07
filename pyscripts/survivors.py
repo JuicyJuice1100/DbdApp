@@ -30,8 +30,8 @@ for div in survivorDiv:
     #get overview
     overview = survivorPage.find('span', id='Overview').parent.find_next('p').text
 
-    #get lore
-    lore = survivorPage.find('span', id='Lore').parent.find_next('p').text
+    # #get lore
+    # lore = survivorPage.find('span', id='Lore').parent.find_next('p').text
     
     #get teachable names and levels, name will be used as ID
     ul = survivorPage.find('span', id=lambda x: x and x.endswith('Perks')).parent.find_next('ul').find_all('li')
@@ -61,7 +61,7 @@ for div in survivorDiv:
         perk = {'perkName': perkName, 'image': image, 'description': description}
         perks.append(perk)
 
-    survivor = {'survivorName': survivorName, 'image': image, 'overview': overview, 'lore': lore, 'teachables': teachables}
+    survivor = {'survivorName': survivorName, 'image': image, 'overview': overview, 'teachables': teachables}
     survivors.append(survivor)
 
 survivorsJson = json.dumps(survivors, indent = 4)

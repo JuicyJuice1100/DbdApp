@@ -34,10 +34,10 @@ for div in killerDiv:
     # if len(overview) > 500:
     #     overview = overview[0:500] + '... ({})'.format(killerURL)
 
-    #if lore is long, get the first 500 chars and add link to killer wiki
-    lore = killerPage.find('span', id='Overview').parent.find_next('p').text
-    # if len(lore) > 500:
-    #     lore = lore[0:500] + '... ({})'.format(killerURL)
+    # #if lore is long, get the first 500 chars and add link to killer wiki
+    # lore = killerPage.find('span', id='Lore').parent.find_next('p').text
+    # # if len(lore) > 500:
+    # #     lore = lore[0:500] + '... ({})'.format(killerURL)
     
     #get teachable names and levels, name will be used as ID
     ul = killerPage.find('span', id=lambda x: x and x.endswith('Perks')).parent.find_next('ul').find_all('li')
@@ -96,7 +96,7 @@ for div in killerDiv:
         addon = {'addonName': addonName, 'image': image, 'description': description}
         addons.append(addon)
 
-    killer = {'killerName': killerName, 'characterName': characterName, 'image': image, 'overview': overview, 'lore': lore, 'power': power, 'teachables': teachables, 'addons': addons}
+    killer = {'killerName': killerName, 'characterName': characterName, 'image': image, 'overview': overview, 'power': power, 'teachables': teachables, 'addons': addons}
     killers.append(killer)
 
 killersJson = json.dumps(killers, indent = 4)
