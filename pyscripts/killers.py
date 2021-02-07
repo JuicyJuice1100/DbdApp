@@ -89,7 +89,7 @@ for div in killerDiv:
 
         description = ''.join([elem for elem in descriptionArray])
 
-        addon = {'addonName': addonName, 'image': addonImageUrl, 'description': description}
+        addon = {'addonName': addonName, 'image': addonFileName, 'description': description}
         addons.append(addon)
 
     killer = {'killerName': killerName, 'characterName': characterName, 'image': portraitFileName, 'overview': overview, 'power': power, 'teachables': teachables, 'addons': addons}
