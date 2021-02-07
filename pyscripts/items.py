@@ -1,16 +1,9 @@
-import requests
-from bs4 import BeautifulSoup
 import json
+import pythonHelper as pyHelper
 
-def getSoupPage(url):
-    page = requests.get(url)
-    soup = BeautifulSoup(page.content, 'html.parser')
-    return soup
+#TODO clean up code
 
-BASEURL = 'https://deadbydaylight.fandom.com/wiki/'
-itemsUrl = BASEURL + 'Items'
-
-itemsPage = getSoupPage(itemsUrl)
+itemsPage = pyHelper.getSoupPage(pyHelper.ITEMSURL)
 
 #{'category': [amount in category, letters to remove for category]}
 itemIds = {'Firecrackers': [3, 1], 'Flashlights': [5,1], 'Keys': [3,1], 'Maps': [2, 1], 'Med-Kits': [6, 1], 'Toolboxes': [6,2]}
@@ -22,18 +15,19 @@ for k, v in itemIds.items():
         descriptionArray = []
 
         data = itemTable.find_all('a')
-
-        image = data[0].find('img').get('src')
         itemName = data[1].text
+
+        fileName = itemName.replace(' ',  '_').replace('"','') + '.png'
+        imageUrl = data[0].find('img').get('src')
+        pyHelper.downloadImage(fileName, imageUrl)
 
         descriptionArray.append(itemTable.find('td').text)
         description = ''.join([elem for elem in descriptionArray])
 
-        item = {'category': k[:-v[1]], 'image': image, 'itemName': itemName, 'description': description}
+        item = {'category': k[:-v[1]], 'image': fileName, 'itemName': itemName, 'description': description}
 
         items.append(item)
 
 itemsJson = json.dumps(items, indent = 4)
 
-with open('../src/assets/data/items.json', 'w') as outfile:
-    outfile.write(itemsJson)
+pyHelper.createJson('../src/assets/data/items.json', itemsJson)

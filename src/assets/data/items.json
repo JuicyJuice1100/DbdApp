@@ -1,151 +1,151 @@
 [
     {
         "category": "Firecracker",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/15/FulliconItems_chineseFirecracker.png/revision/latest/scale-to-width-down/96?cb=20200713233245",
+        "image": "Chinese_Firecracker.png",
         "itemName": "Chinese Firecracker",
         "description": "A row of small explosive devices wrapped in heavy paper casing.Detonates into loud bangs and intense light flashes.\n1 Charge.\nCan be used as a distraction, as a blinding device or to celebrate.\n"
     },
     {
         "category": "Firecracker",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d5/FulliconItems_winterPartyStarter.png/revision/latest/scale-to-width-down/96?cb=20200713233303",
+        "image": "Winter_Party_Starter.png",
         "itemName": "Winter Party Starter",
         "description": "A small, highly-explosive dinner table decoration.Detonates into loud bangs and intense light flashes.\n1 Charge.\nCan be used as a distraction, as a blinding device or to celebrate.\n"
     },
     {
         "category": "Firecracker",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/10/FulliconItems_partyPopper.png/revision/latest/scale-to-width-down/96?cb=20200713233317",
+        "image": "Third_Year_Party_Starter.png",
         "itemName": "Third Year Party Starter",
         "description": "A small, highly-explosive dinner table decoration.Detonates into loud bangs and intense light flashes, and playful confetti.\n1 Charge.\nCan be used as a distraction, as a blinding device or to celebrate our three years together.\n\"Happy Anniversary! Here's to our three years together!\" \u2014 The Dead by Daylight Team\n\n"
     },
     {
         "category": "Flashlight",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/76/FulliconItems_flashlightItem.png/revision/latest/scale-to-width-down/96?cb=20200713233325",
+        "image": "Flashlight_(Item).png",
         "itemName": "Flashlight (Item)",
         "description": "A standard Flashlight.\n8 seconds of use.\nCan be used to light your way in the darkness.\n\"Most of the battery life was wastefully used by the previous owner.\"\n\n"
     },
     {
         "category": "Flashlight",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/FulliconItems_sportFlashlight.png/revision/latest/scale-to-width-down/96?cb=20200713233330",
+        "image": "Sport_Flashlight.png",
         "itemName": "Sport Flashlight",
         "description": "A very portable Flashlight with a good grip.Its efficient technology produces a powerful light while consuming less power.\n8 seconds of use.\nSlightly increases Flashlight Beam accuracy.\nSlightly decreases Flashlight Battery Consumption rate.\n"
     },
     {
         "category": "Flashlight",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/FulliconItems_utilityFlashlight.png/revision/latest/scale-to-width-down/96?cb=20200713233335",
+        "image": "Utility_Flashlight.png",
         "itemName": "Utility Flashlight",
         "description": "A sturdy but heavy Flashlight that packs a lot of power.\n12 seconds of use.\nModerately increases Flashlight Beam Brightness.\nModerately increases Blindness duration.\nSlightly decreases Flashlight Beam accuracy.\n"
     },
     {
         "category": "Flashlight",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/FulliconItems_willOWisp.png/revision/latest/scale-to-width-down/96?cb=20200713233341",
+        "image": "Will_O'_Wisp.png",
         "itemName": "Will O' Wisp",
         "description": "A Flashlight equipped with a special lens cover that adds an orange tint and a little Ghost to the beam.\n8 seconds of use.\nConsiderably increases friendly Ghosts in your life.\n\"Happy Trick or Treating!\"\n\n"
     },
     {
         "category": "Flashlight",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/FulliconItems_fourthYearFlashlight.png/revision/latest/scale-to-width-down/96?cb=20200713233347",
+        "image": "Fourth_Year_Flashlight.png",
         "itemName": "Fourth Year Flashlight",
         "description": "A festive Flashlight that explodes with confetti upon blinding a Killer. Surprise!\n8 seconds of use.\n\"Happy Anniversary! Here's to many more!\" \u2014 The Dead by Daylight Team\n\n"
     },
     {
         "category": "Key",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/29/FulliconItems_brokenKey.png/revision/latest/scale-to-width-down/96?cb=20200713233355",
+        "image": "Broken_Key.png",
         "itemName": "Broken Key",
         "description": "The bow and shank of a key, vibrating with power.The Broken Key's power cannot be triggered by itself.Various objects can be attached to its jump ring, which channels the Broken Key's power into various effects.\n10 seconds of use.\nRequires Add-ons  for any abilities.\n"
     },
     {
         "category": "Key",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/FulliconItems_dullKey.png/revision/latest/scale-to-width-down/96?cb=20200713233401",
+        "image": "Dull_Key.png",
         "itemName": "Dull Key",
         "description": "A bent and dull Key that once held great power.The Dull Key's power cannot be triggered by itself.Various objects can be attached to its jump ring, which channels the Dull Key's remaining power into various effects.\n5 seconds of use.\nCan be consumed to open the Hatch .\n"
     },
     {
         "category": "Key",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/FulliconItems_skeletonKey.png/revision/latest/scale-to-width-down/96?cb=20200713233406",
+        "image": "Skeleton_Key.png",
         "itemName": "Skeleton Key",
         "description": "A tarnished and crooked Key, vibrating with ominous power.The Skeleton Key's power cannot be triggered by itself.Various objects can be attached to its jump ring, which channels the Skeleton Key's power into various effects.\n30 seconds of use.\nCan be consumed to open the Hatch .\n"
     },
     {
         "category": "Map",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/26/FulliconItems_mapItem.png/revision/latest/scale-to-width-down/96?cb=20200713233413",
+        "image": "Map_(Item).png",
         "itemName": "Map (Item)",
         "description": "An old piece of parchment made out of a skin-like material. Is rolled and sealed with an uncoloured leather string. Holding and channelling the Map unlocks great potential in one's Aura-reading ability which slowly burns the Map.Generators' Auras which you have already encountered are revealed to you for as long as the Map has charges left.\n20 seconds of use.\nStarts with 1 object tracked.\nUnlocks the ability to track Generators  within a range of 8 metres.\nUnlocks the ability to track Chests  revealed by Detective's Hunch .\n"
     },
     {
         "category": "Map",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e3/FulliconItems_rainbowMap.png/revision/latest/scale-to-width-down/96?cb=20200713233419",
+        "image": "Rainbow_Map.png",
         "itemName": "Rainbow Map",
         "description": "A piece of parchment made out of oddly fresh skin.Blood on its edge has yet to dry.It is rolled and sealed with multiple coloured ropes and cords.Holding and channelling the Map unlocks a great potential in one's Aura-reading ability which slowly burns up the Map.Objects with Auras which you have already encountered are revealed to you for as long as the Map has charges left.\n20 seconds of use.\nStarts with 3 objects tracked.\nUnlocks the ability to track Killer Belongings within a range of 8 metres, such as:\nExit Gates \nGenerators \nHatch \nHooks \nTotems \nUnlocks the ability to track Chests  revealed by Detective's Hunch .\n\"It disheartens me. All this unspeakable knowledge and gruelling effort and yet nothing tangible, nothing usable to get out of this nightmare.\" \u2014 Vigo's Journal\n\n"
     },
     {
         "category": "Med-Kit",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/FulliconItems_campingAidKit.png/revision/latest/scale-to-width-down/96?cb=20200713233435",
+        "image": "Camping_Aid_Kit.png",
         "itemName": "Camping Aid Kit",
         "description": "A rudimentary Aid Kit which can save lives in emergencies, even if it's lacking some of its supplies.\n16 Charges.\nModerately increases Altruistic Healing speed.\nUnlocks the Self-Healing action.\n\"Barely has enough material for a decent patch-up.\"\n\n"
     },
     {
         "category": "Med-Kit",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/FulliconItems_firstAidKit.png/revision/latest/scale-to-width-down/96?cb=20200713233445",
+        "image": "First_Aid_Kit.png",
         "itemName": "First Aid Kit",
         "description": "A standard First Aid Kit with all the necessary equipment for treating common to more serious injuries.\n24 Charges.\nConsiderably increases Altruistic Healing speed.\nUnlocks the Self-Healing action.\n"
     },
     {
         "category": "Med-Kit",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/FulliconItems_emergencyMed-Kit.png/revision/latest/scale-to-width-down/96?cb=20200713233450",
+        "image": "Emergency_Med-Kit.png",
         "itemName": "Emergency Med-Kit",
         "description": "A sturdy and well organised Med-Kit equipped with top condition emergency supplies.\n16 Charges.\nTremendously increases Altruistic Healing speed.\nUnlocks the Self-Healing action.\nTremendously increases Self-Healing speed.\n\"There is a cure for almost everything...but not for this.\"\n\n"
     },
     {
         "category": "Med-Kit",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ea/FulliconItems_rangerMed-Kit.png/revision/latest/scale-to-width-down/96?cb=20200713233456",
+        "image": "Ranger_Med-Kit.png",
         "itemName": "Ranger Med-Kit",
         "description": "A large metal box containing medical supplies aimed at emergency rescues in hard to reach, often isolated locations.\n32 Charges.\nTremendously increases Altruistic Healing speed.\nModerately increases Skill Check success zones.\nModerately increases Skill Check bonus zones.\nUnlocks the Self-Healing action.\n\"A small engraved label can be found glued to the back panel: VK.ID-3994723.\"\n\n"
     },
     {
         "category": "Med-Kit",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/FulliconItems_allHallowsEveLunchbox.png/revision/latest/scale-to-width-down/96?cb=20200713233502",
+        "image": "All_Hallows'_Eve_Lunchbox.png",
         "itemName": "All Hallows' Eve Lunchbox",
         "description": "A plastic lunchbox with phosphorescent Halloween Stickers that has been packed with first-aid equipment.\n24 Charges.\nConsiderably increases Altruistic Healing speed.\nUnlocks the Self-Healing action.\nMakes you considerably more visible.\n\"Safety first! Make sure you can be seen when trick or treating.\"\n\n"
     },
     {
         "category": "Med-Kit",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bf/FulliconItems_fourthYearMed-Kit.png/revision/latest/scale-to-width-down/96?cb=20200713233509",
+        "image": "Fourth_Year_Med-Kit.png",
         "itemName": "Fourth Year Med-Kit",
         "description": "A festive Med-Kit that explodes with confetti upon fully healing a Survivor. Surprise!\n24 Charges.\nConsiderably increases Altruistic Healing speed.\nUnlocks the Self-Healing action.\n\"Happy Anniversary! Here's to many more!\" \u2014 The Dead by Daylight Team\n\n"
     },
     {
         "category": "Toolbox",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/FulliconItems_worn-outTools.png/revision/latest/scale-to-width-down/96?cb=20200713233518",
+        "image": "Worn-Out_Tools.png",
         "itemName": "Worn-Out Tools",
         "description": "A metal box containing out of condition tools that could break at any moment.Even without training, can be used to repair or break various mechanical components.\n16 Charges.\nModerately increases Repair speed.\nSlightly decreases Skill Check success zones.\nUnlocks the Sabotage action.\nConsiderably decreases Toolbox Efficiency during Sabotage.\n\"You call these tools? ... Really?\"\n\n"
     },
     {
         "category": "Toolbox",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/ce/FulliconItems_toolboxItem.png/revision/latest/scale-to-width-down/96?cb=20200713233523",
+        "image": "Toolbox_(Item).png",
         "itemName": "Toolbox (Item)",
         "description": "A metal box containing a set of basic tools.Even without training, can be used to repair or break various mechanical components.\n20 Charges.\nModerately increases Repair speed.\nUnlocks the Sabotage action.\nSlightly increases Sabotage speed.\nConsiderably decreases Toolbox Efficiency during Sabotage.\n\"It is unclear as to where these tools come from. Were they brought in by one of us or did they belong to one of the monsters?\"\n\n"
     },
     {
         "category": "Toolbox",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/22/FulliconItems_mechanicsToolbox.png/revision/latest/scale-to-width-down/96?cb=20200713233530",
+        "image": "Mechanic's_Toolbox.png",
         "itemName": "Mechanic's Toolbox",
         "description": "A metal box with specialised mechanics tools.Even without training, can be used to repair or break various mechanical components.\n16 Charges.\nConsiderably increases Repair speed.\nUnlocks the Sabotage action.\nSlightly decreases Sabotage speed.\nConsiderably decreases Toolbox Efficiency during Sabotage.\n"
     },
     {
         "category": "Toolbox",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/FulliconItems_commodiousToolbox.png/revision/latest/scale-to-width-down/96?cb=20200713233535",
+        "image": "Commodious_Toolbox.png",
         "itemName": "Commodious Toolbox",
         "description": "A large metal box containing basic tool and extra mechanical parts.Even without training, can be used to repair or break various mechanical components.\n32 Charges.\nModerately increases Repair speed.\nUnlocks the Sabotage action.\nConsiderably decreases Toolbox Efficiency during Sabotage.\n"
     },
     {
         "category": "Toolbox",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/FulliconItems_engineersToolbox.png/revision/latest/scale-to-width-down/96?cb=20200713233542",
+        "image": "Engineer's_Toolbox.png",
         "itemName": "Engineer's Toolbox",
         "description": "A metal box with highly specialised tools meant for engineering.Most of the tools can be used by neophytes to make quick repairs or break various mechanical components.\n16 Charges\nTremendously increases Repair speed.\nUnlocks the Sabotage action.\nModerately decreases Sabotage speed.\nConsiderably decreases Toolbox Efficiency during Sabotage.\n\"I've created tools beyond compare and stood paralysed as they were stolen from me. These are but a poor replica, spat out by The Fog.\" \u2014 Vigo's Journal\n\n"
     },
     {
         "category": "Toolbox",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/FulliconItems_alexsToolbox.png/revision/latest/scale-to-width-down/96?cb=20200713233547",
+        "image": "Alex's_Toolbox.png",
         "itemName": "Alex's Toolbox",
         "description": "A metal box containing mainly saws and vice grips of varying sizes but also other tools.Even though the content of this Toolbox is clearly aimed at destructive deeds, it can be used to repair various mechanical components as well.\n24 Charges.\nSlightly increases Repair speed.\nUnlocks the Sabotage action.\nConsiderably increases Sabotage speed.\nConsiderably decreases Toolbox Efficiency during Sabotage.\n\"Most of the tools are identified as 'owned by Alex'.\"\n\n"
     }

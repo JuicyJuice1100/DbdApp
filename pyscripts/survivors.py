@@ -1,18 +1,12 @@
-import requests
-from bs4 import BeautifulSoup
 import json
+import pythonHelper as pyHelper
 
-def getSoupPage(url):
-    page = requests.get(url)
-    soup = BeautifulSoup(page.content, 'html.parser')
-    return soup
+#TODO clean up code
 
-BASEURL = 'https://deadbydaylight.fandom.com/wiki/'
-survivorsURL = BASEURL + 'Survivors'
 survivors = []
 perks = []
 
-survivorsPage = getSoupPage(survivorsURL)
+survivorsPage = pyHelper.getSoupPage(pyHelper.SURVIVORSURL)
 
 survivorDiv = survivorsPage.find('span', id='List_of_Survivors').parent.find_next('div')
 
@@ -20,12 +14,14 @@ survivorDiv = survivorsPage.find('span', id='List_of_Survivors').parent.find_nex
 for div in survivorDiv:
     teachables = []
 
-
     survivorName = div.find('a').text
-    image = div.find('img').get('src')
+    
+    fileName = survivorName.replace(' ',  '_').replace('"','') + '_portrait.png'
+    imageUrl = div.find('img').get('src')
+    pyHelper.downloadImage(fileName, imageUrl)
 
-    survivorURL = BASEURL + survivorName.replace(' ','_')
-    survivorPage = getSoupPage(survivorURL)
+    survivorURL = pyHelper.BASEURL + survivorName.replace(' ','_')
+    survivorPage = pyHelper.getSoupPage(survivorURL)
 
     #get overview
     overview = survivorPage.find('span', id='Overview').parent.find_next('p').text
@@ -43,32 +39,32 @@ for div in survivorDiv:
         teachable = {'perk': perk, 'level': level}
         teachables.append(teachable)
 
-    #get perk data
-    table = survivorPage.find('span', id=lambda x: x and x.endswith('Perks')).parent.find_next('table').find_all('tr')
+    # #get perk data
+    # table = survivorPage.find('span', id=lambda x: x and x.endswith('Perks')).parent.find_next('table').find_all('tr')
 
-    for tr in table:
-        data = tr.find_all('a')
-        image = data[0].find('img').get('src')
-        perkName = data[1].text
+    # for tr in table:
+    #     data = tr.find_all('a')
 
-        descriptionArray = []
+    #     perkImageUrl = data[0].find('img').get('src')
+    #     perkImage = pyHelper.downloadImage(perkImageUrl)
 
-        for elm in tr.find('td').find_all('p'):
-            descriptionArray.append(elm.text)
+    #     perkName = data[1].text
 
-        description = ''.join([str(elem) for elem in descriptionArray])
+    #     descriptionArray = []
 
-        perk = {'perkName': perkName, 'image': image, 'description': description}
-        perks.append(perk)
+    #     for elm in tr.find('td').find_all('p'):
+    #         descriptionArray.append(elm.text)
 
-    survivor = {'survivorName': survivorName, 'image': image, 'overview': overview, 'teachables': teachables}
+    #     description = ''.join([str(elem) for elem in descriptionArray])
+
+    #     perk = {'perkName': perkName, 'image': perkImage, 'description': description}
+    #     perks.append(perk)
+
+    survivor = {'survivorName': survivorName, 'image': fileName, 'overview': overview, 'teachables': teachables}
     survivors.append(survivor)
 
 survivorsJson = json.dumps(survivors, indent = 4)
 perksJson = json.dumps(perks, indent = 4)
 
-with open('../src/assets/data/survivors.json', 'w') as outfile:
-    outfile.write(survivorsJson)
-
-with open('../src/assets/data/survivorPerks.json', 'w') as outfile:
-    outfile.write(perksJson)
+pyHelper.createJson('../src/assets/data/survivors.json', survivorsJson)
+# pyHelper.createJson('../src/assets/data/survivorPerks.json', perksJson)

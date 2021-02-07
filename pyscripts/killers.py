@@ -1,18 +1,12 @@
-import requests
-from bs4 import BeautifulSoup
 import json
+import pythonHelper as pyHelper
 
-def getSoupPage(url):
-    page = requests.get(url)
-    soup = BeautifulSoup(page.content, 'html.parser')
-    return soup
+#TODO clean up code
 
-BASEURL = 'https://deadbydaylight.fandom.com/wiki/'
-killersURL = BASEURL + 'Killers'
 killers = []
 perks = []
 
-killersPage = getSoupPage(killersURL)
+killersPage = pyHelper.getSoupPage(pyHelper.KILLERSURL)
 
 killerDiv = killersPage.find('span', id='List_of_Killers').parent.find_next('div')
 
@@ -24,10 +18,13 @@ for div in killerDiv:
 
     characterName = div.find('a').text.replace(' ','_')
     killerName = div.find('img').parent.get('title')
-    image = div.find('img').get('src')
 
-    killerURL = BASEURL + characterName.replace(' ','_')
-    killerPage = getSoupPage(killerURL)
+    portraitFileName = killerName.replace(' ',  '_').replace('"','') + '_portrait.png'
+    imageUrl = div.find('img').get('src')
+    pyHelper.downloadImage(portraitFileName, imageUrl)
+
+    killerURL = pyHelper.BASEURL + characterName.replace(' ','_')
+    killerPage = pyHelper.getSoupPage(killerURL)
 
     #if overview is long, get the first 500 chars and add link to killer wiki
     overview = killerPage.find('span', id='Overview').parent.find_next('p').text
@@ -49,25 +46,23 @@ for div in killerDiv:
         teachable = {'perk': perk, 'level': level}
         teachables.append(teachable)
 
-    #get perk data
-    teachableTable = killerPage.find('span', id=lambda x: x and x.endswith('Perks')).parent.find_next('table').find_all('tr')
+    # #get perk data
+    # teachableTable = killerPage.find('span', id=lambda x: x and x.endswith('Perks')).parent.find_next('table').find_all('tr')
 
-    for tr in teachableTable:
-        data = tr.find_all('a')
-        image = data[0].find('img').get('src')
-        perkName = data[1].text
+    # for tr in teachableTable:
+    #     data = tr.find_all('a')
+    #     perkImage = data[0].find('img').get('src')
+    #     perkName = data[1].text
 
-        descriptionArray = []
+    #     descriptionArray = []
 
-        for elm in tr.find('td').find_all('p'):
-            descriptionArray.append(elm.text)
+    #     for elm in tr.find('td').find_all('p'):
+    #         descriptionArray.append(elm.text)
 
-        description = ''.join([str(elem) for elem in descriptionArray])
+    #     description = ''.join([str(elem) for elem in descriptionArray])
 
-        perk = {'perkName': perkName, 'image': image, 'description': description}
-        perks.append(perk)
-    
-    #TODO powers
+    #     perk = {'perkName': perkName, 'image': perkImage, 'description': description}
+    #     perks.append(perk)
 
     #get power data
     powerName = killerPage.find('span', id=lambda x: x and x.startswith('Power')).text.replace('Power: ', '')
@@ -77,8 +72,6 @@ for div in killerDiv:
     
     power = {'powerName': powerName, 'powerDescription': powerDescription }
 
-    #TODO add-ons
-
     #get add-ons
     addonTable = killerPage.find('span', id=lambda x: x and x.startswith('Add-ons')).parent.find_next('table').find_all('tr')
 
@@ -86,24 +79,24 @@ for div in killerDiv:
         descriptionArray = []
 
         data = tr.find_all('a')
-        image = data[0].find('img').get('src')
         addonName = data[1].text
+
+        addonFileName = addonName.replace(' ',  '_').replace('"','') + '.png'
+        addonImageUrl = data[0].find('img').get('src')
+        pyHelper.downloadImage(addonFileName, addonImageUrl) 
 
         descriptionArray.append(tr.find('td').text)
 
         description = ''.join([elem for elem in descriptionArray])
 
-        addon = {'addonName': addonName, 'image': image, 'description': description}
+        addon = {'addonName': addonName, 'image': addonImageUrl, 'description': description}
         addons.append(addon)
 
-    killer = {'killerName': killerName, 'characterName': characterName, 'image': image, 'overview': overview, 'power': power, 'teachables': teachables, 'addons': addons}
+    killer = {'killerName': killerName, 'characterName': characterName, 'image': portraitFileName, 'overview': overview, 'power': power, 'teachables': teachables, 'addons': addons}
     killers.append(killer)
 
 killersJson = json.dumps(killers, indent = 4)
-perksJson = json.dumps(perks, indent = 4)
+# perksJson = json.dumps(perks, indent = 4)
 
-with open('../src/assets/data/killers.json', 'w') as outfile:
-    outfile.write(killersJson)
-
-with open('../src/assets/data/killerPerks.json', 'w') as outfile:
-    outfile.write(perksJson)
+pyHelper.createJson('../src/assets/data/killers.json', killersJson)
+# pyHelper.createJson('../src/assets/data/killerPerks.json', perksJson)

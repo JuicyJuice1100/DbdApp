@@ -2,7 +2,7 @@
     {
         "killerName": "Trapper",
         "characterName": "Evan_MacMillan",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b3/FulliconAddon_bloodyCoil.png/revision/latest/scale-to-width-down/96?cb=20200714214024",
+        "image": "Trapper_portrait.png",
         "overview": "The Trapper is an area-control Killer, able to apply pressure across the Map by placing deadly Bear Traps for Survivors to step into.\n",
         "power": {
             "powerName": "Bear Trap",
@@ -128,7 +128,7 @@
     {
         "killerName": "Wraith",
         "characterName": "Philip_Ojomo",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/FulliconAddon_allSeeing-Spirit.png/revision/latest/scale-to-width-down/96?cb=20200715113952",
+        "image": "Wraith_portrait.png",
         "overview": "The Wraith is a stealth Killer, able to cloak and uncloak at the ringing of his Wailing Bell.\n",
         "power": {
             "powerName": "Wailing Bell",
@@ -254,11 +254,11 @@
     {
         "killerName": "Hillbilly",
         "characterName": "Max_Thompson_Jr.",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f0/FulliconAddon_iridescentBrick.png/revision/latest/scale-to-width-down/96?cb=20200714150518",
+        "image": "Hillbilly_portrait.png",
         "overview": "The Hillbilly is a high-mobility Killer, able to cover large distances in a short amount of time and instantly down Survivors using his Chainsaw.\n",
         "power": {
             "powerName": "The Chainsaw",
-            "powerDescription": "\nCHAINSAW:\nPress and hold the Power button to break into a Chainsaw Sprint, moving at twice your regular Movement speed (9.2 m/s).Survivors hit during a Chainsaw Sprint are put into the Dying State .\nChainsaw:\nOverheat:\n\nThere are currently 2 Achievements related to The Hillbilly.\nThe value of a Console Achievement that differs from the Steam (PC) version of Dead by Daylight is written in Purple.\n\nPlayers can customise their Character by choosing one outfit style from each Category. Blood-stained attire is obtained after The Hillbilly reaches Level 50 and prestiges.\nSome Items of clothing can only be worn if the appropriate DLC is owned.\nThe Hillbilly's attire includes:\n\nThe Hillbilly is currently part of 1 DLC package:\n\nCHAINSAW:\nPress and hold the Power button to charge the Chainsaw:\nPower Trivia:\n\n\nFor more go to the Hillbilly's Gallery\n\n"
+            "powerDescription": "CHAINSAW:\nPress and hold the Power button to break into a Chainsaw Sprint, moving at twice your regular Movement speed (9.2 m/s).Survivors hit during a Chainsaw Sprint are put into the Dying State \u00a0.\nChainsaw:Overheat:"
         },
         "teachables": [
             {
@@ -278,109 +278,109 @@
             {
                 "addonName": "Steel Toe Boots",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/FulliconAddon_steelToeBoots.png/revision/latest/scale-to-width-down/96?cb=20200714150716",
-                "description": "Boots with a reinforced toe that offer protection from impact.\nSlightly reduces Recovery time after hitting an object with the Chainsaw.\n"
+                "description": "Boots with a reinforced toe that offer protection from impact.\nSlightly reduces Recovery time after hitting an object with the Chainsaw."
             },
             {
                 "addonName": "Junkyard Air Filter",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/59/FulliconAddon_junkyardAirFilter.png/revision/latest/scale-to-width-down/96?cb=20200714150711",
-                "description": "A cracked and dusty filter. It still manages to work better than the stock model.\nSlightly increases Chainsaw Overheat limit.\n"
+                "description": "A cracked and dusty filter. It still manages to work better than the stock model.\nSlightly increases Chainsaw Overheat limit."
             },
             {
                 "addonName": "Heavy Clutch",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8d/FulliconAddon_heavyClutch.png/revision/latest/scale-to-width-down/96?cb=20200714150705",
-                "description": "A well-made clutch that keeps the chain moving smoothly.\nDecreases the Collision Zone during a Chainsaw Sprint.\n"
+                "description": "A well-made clutch that keeps the chain moving smoothly.\nDecreases the Collision Zone during a Chainsaw Sprint."
             },
             {
                 "addonName": "Speed Limiter",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/FulliconAddon_speedLimiter.png/revision/latest/scale-to-width-down/96?cb=20200805204610",
-                "description": "A mechanical device that limits the amount of fuel small engines can intake at one time, forcing a constant and safe speed.\nGrants 100\u00a0% Bonus Bloodpoints for Chainsaw Hit Score Events in the Deviousness Category.\nHits with either Bubba's Chainsaw or the Chainsaw do not automatically trigger the Dying State .\n"
+                "description": "A mechanical device that limits the amount of fuel small engines can intake at one time, forcing a constant and safe speed.\nGrants 100\u00a0% Bonus Bloodpoints for Chainsaw Hit Score Events in the Deviousness Category.\nHits with either Bubba's Chainsaw or the Chainsaw do not automatically trigger the Dying State \u00a0."
             },
             {
                 "addonName": "Dad's Boots",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ec/FulliconAddon_dadsBoots.png/revision/latest/scale-to-width-down/96?cb=20200805204639",
-                "description": "A pair of trusty boots, pulled from the corpse of Max Thompson Senior.\nModerately increases Chainsaw Sprint steering.\n"
+                "description": "A pair of trusty boots, pulled from the corpse of Max Thompson Senior.\nModerately increases Chainsaw Sprint steering."
             },
             {
                 "addonName": "Punctured Muffler",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/FulliconAddon_puncturedMuffler.png/revision/latest/scale-to-width-down/96?cb=20200714150626",
-                "description": "A roughly modified muffler that allows for extra air flow.\nSlightly accelerates Chainsaw Cooling rate.\n"
+                "description": "A roughly modified muffler that allows for extra air flow.\nSlightly accelerates Chainsaw Cooling rate."
             },
             {
                 "addonName": "Off-brand Motor Oil",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/09/FulliconAddon_off-brandMotorOil.png/revision/latest/scale-to-width-down/96?cb=20200714150621",
-                "description": "Affordable oil that can be used to lubricate noisy chains.\nSlightly decreases Chainsaw Noise range.\n"
+                "description": "Affordable oil that can be used to lubricate noisy chains.\nSlightly decreases Chainsaw Noise range."
             },
             {
                 "addonName": "Death Engravings",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/FulliconAddon_deathEngravings.png/revision/latest/scale-to-width-down/96?cb=20200714150616",
-                "description": "Engravings found on the Chainsaw body counting the amount of lives it took. Fills the user with determination.\nSlightly increases Chainsaw Sprint Movement speed.\nSlightly increases Chainsaw Charge time.\n"
+                "description": "Engravings found on the Chainsaw body counting the amount of lives it took. Fills the user with determination.\nSlightly increases Chainsaw Sprint Movement speed.\nSlightly increases Chainsaw Charge time."
             },
             {
                 "addonName": "Big Buckle",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/FulliconAddon_bigBuckle.png/revision/latest/scale-to-width-down/96?cb=20200714150612",
-                "description": "A glorious, shining belt worn by many good ol' country boys.\nDecreases the Terror Radius by 8 metres when the Chainsaw is overheating.\n"
+                "description": "A glorious, shining belt worn by many good ol' country boys.\nDecreases the Terror Radius by 8 metres when the Chainsaw is overheating."
             },
             {
                 "addonName": "Mother's Helpers",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ef/FulliconAddon_mothersHelpers.png/revision/latest/scale-to-width-down/96?cb=20200714150607",
-                "description": "A small number of caffeine pills found in Evelyn Thompson's purse. Side effects include nervousness and irritability.\nSlightly reduces Chainsaw Charge time for 30 seconds after being stunned by a Pallet .\n\"Doctor, please, more of these!\" \u2014 Evelyn Thompson\n\n"
+                "description": "A small number of caffeine pills found in Evelyn Thompson's purse. Side effects include nervousness and irritability.\nSlightly reduces Chainsaw Charge time for 30 seconds after being stunned by a Pallet \u00a0.\"Doctor, please, more of these!\" \u2014 Evelyn Thompson\n\n"
             },
             {
                 "addonName": "Low Kickback Chains",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8d/FulliconAddon_lowKickbackChains.png/revision/latest/scale-to-width-down/96?cb=20200714150602",
-                "description": "A specialised chain that reduces the likelihood of kickback.\nConsiderably reduces Recovery time after hitting an object with the Chainsaw.\n"
+                "description": "A specialised chain that reduces the likelihood of kickback.\nConsiderably reduces Recovery time after hitting an object with the Chainsaw."
             },
             {
                 "addonName": "Leafy Mash",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/FulliconAddon_leafyMash.png/revision/latest/scale-to-width-down/96?cb=20200714150558",
-                "description": "A wet mash of fragrant leaves that mask a hunter's scent when stalking prey.\nGain the Undetectable  Status Effect for 15 seconds after landing a Chainsaw hit.\n"
+                "description": "A wet mash of fragrant leaves that mask a hunter's scent when stalking prey.\nGain the Undetectable \u00a0 Status Effect for 15 seconds after landing a Chainsaw hit."
             },
             {
                 "addonName": "Doom Engravings",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/FulliconAddon_doomEngravings.png/revision/latest/scale-to-width-down/96?cb=20200714150552",
-                "description": "Engravings found on the Chainsaw body representing the dark beast that lives in the Fog. Fills the user with determination.\nModerately increases Chainsaw Sprint Movement speed.\nSlightly increases Chainsaw Charge time.\n"
+                "description": "Engravings found on the Chainsaw body representing the dark beast that lives in the Fog. Fills the user with determination.\nModerately increases Chainsaw Sprint Movement speed.\nSlightly increases Chainsaw Charge time."
             },
             {
                 "addonName": "Black Grease",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d2/FulliconAddon_blackGrease.png/revision/latest/scale-to-width-down/96?cb=20200714150548",
-                "description": "Thick grease that can be applied beneath the eyes to reduce glare.\nModerately accelerates Chainsaw Cooling rate when a Flashlight  is shining on you.\n"
+                "description": "Thick grease that can be applied beneath the eyes to reduce glare.\nModerately accelerates Chainsaw Cooling rate when a Flashlight \u00a0 is shining on you."
             },
             {
                 "addonName": "Tuned Carburettor",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/85/FulliconAddon_tunedCarburettor.png/revision/latest/scale-to-width-down/96?cb=20200714150542",
-                "description": "Despite being caked in dirt and oil, this carburettor has been well adjusted.\nModerately reduces Chainsaw Charge time.\nReduces The Hillbilly's base Movement speed to 4.4 m/s.\n"
+                "description": "Despite being caked in dirt and oil, this carburettor has been well adjusted.\nModerately reduces Chainsaw Charge time.\nReduces The Hillbilly's base Movement speed to 4.4 m/s."
             },
             {
                 "addonName": "Spiked Boots",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8f/FulliconAddon_spikedBoots.png/revision/latest/scale-to-width-down/96?cb=20200729110455",
-                "description": "Boots with strapped-on pieces of metal which burrow into mud for more stability and control with each step.\nTremendously increases Chainsaw Sprint steering.\nConsiderably increases Recovery time after hitting an object with the Chainsaw.\n"
+                "description": "Boots with strapped-on pieces of metal which burrow into mud for more stability and control with each step.\nTremendously increases Chainsaw Sprint steering.\nConsiderably increases Recovery time after hitting an object with the Chainsaw."
             },
             {
                 "addonName": "Pighouse Gloves",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconAddon_pighouseGloves.png/revision/latest/scale-to-width-down/96?cb=20200714150533",
-                "description": "Rancid smelling gloves, soiled with unknown substances. Despite everything wrong with them, they do have thick fabric.\nModerately reduces heat gained when starting to rev the Chainsaw.\n\"Ain't no mess can stain a hard-workin' man's soul.\" \u2014 Max Thompson Sr.\n\n"
+                "description": "Rancid smelling gloves, soiled with unknown substances. Despite everything wrong with them, they do have thick fabric.\nModerately reduces heat gained when starting to rev the Chainsaw.\"Ain't no mess can stain a hard-workin' man's soul.\" \u2014 Max Thompson Sr.\n\n"
             },
             {
                 "addonName": "LoPro Chains",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/FulliconAddon_loProChains.png/revision/latest/scale-to-width-down/96?cb=20200805204710",
-                "description": "Light chains that decrease the weight of the Chainsaw, allowing for greater manoeuvrability.\nContinue a Chainsaw Sprint after breaking a Pallet  or Breakable Wall .\nSurvivors hit with the Chainsaw within 5 seconds of breaking a Pallet or a Breakable Wall are only damaged for a single Health State .\n"
+                "description": "Light chains that decrease the weight of the Chainsaw, allowing for greater manoeuvrability.\nContinue a Chainsaw Sprint after breaking a Pallet \u00a0 or Breakable Wall \u00a0.\nSurvivors hit with the Chainsaw within 5 seconds of breaking a Pallet or a Breakable Wall are only damaged for a single Health State \u00a0."
             },
             {
                 "addonName": "Apex Muffler",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/FulliconAddon_apexMuffler.png/revision/latest/scale-to-width-down/96?cb=20200805204734",
-                "description": "A masterfully crafted chainsaw muffler that outperforms all others.\nThe Chainsaw is silent for Survivors outside of the Terror Radius.\n"
+                "description": "A masterfully crafted chainsaw muffler that outperforms all others.\nThe Chainsaw is silent for Survivors outside of the Terror Radius."
             },
             {
                 "addonName": "Iridescent Brick",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f0/FulliconAddon_iridescentBrick.png/revision/latest/scale-to-width-down/96?cb=20200714150518",
-                "description": "Once representative of Max Junior's confinement, this was the first brick to fall when his room's barricade came crashing down.\nAfter maintaining a Chainsaw Sprint for 2 seconds, gain the Undetectable  Status Effect until you stop sprinting.\n\"What kinda ruckus you stirrin', boy?\" \u2014 Max Thompson Sr.\n\n"
+                "description": "Once representative of Max Junior's confinement, this was the first brick to fall when his room's barricade came crashing down.\nAfter maintaining a Chainsaw Sprint for 2 seconds, gain the Undetectable \u00a0 Status Effect until you stop sprinting.\"What kinda ruckus you stirrin', boy?\" \u2014 Max Thompson Sr.\n\n"
             }
         ]
     },
     {
         "killerName": "Nurse",
         "characterName": "Sally_Smithson",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/FulliconAddon_matchbox.png/revision/latest/scale-to-width-down/96?cb=20200715115941",
+        "image": "Nurse_portrait.png",
         "overview": "The Nurse is a warping Killer, able to blink through obstacles and quickly close gaps with her Power.\n",
         "power": {
             "powerName": "",
@@ -506,7 +506,7 @@
     {
         "killerName": "Shape",
         "characterName": "Michael_Myers",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/37/FulliconAddon_fragrantTuftOfHair.png/revision/latest/scale-to-width-down/96?cb=20200715123306",
+        "image": "Shape_portrait.png",
         "overview": "The Shape is a haunting Killer, intent on monitoring Survivors from a distance to feed his Power. The more he stalks, the stronger and faster he becomes.\n",
         "power": {
             "powerName": "Evil Within",
@@ -632,7 +632,7 @@
     {
         "killerName": "Hag",
         "characterName": "Lisa_Sherwood",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/FulliconAddon_mintRag.png/revision/latest/scale-to-width-down/96?cb=20200715183817",
+        "image": "Hag_portrait.png",
         "overview": "The Hag is a cursed Killer, able to place Phantasm Traps and then teleport to them upon activation, using her Power.\n",
         "power": {
             "powerName": "Blackened Catalyst",
@@ -758,7 +758,7 @@
     {
         "killerName": "Doctor",
         "characterName": "Herman_Carter",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/FulliconAddon_iridescentKing.png/revision/latest/scale-to-width-down/96?cb=20200715191317",
+        "image": "Doctor_portrait.png",
         "overview": "The Doctor is a madness-inducing Killer, able to use his Power - Static Blast, incapacitating Survivors and causing them to hallucinate and scream in terror, revealing their position.\n",
         "power": {
             "powerName": "",
@@ -884,7 +884,7 @@
     {
         "killerName": "Huntress",
         "characterName": "Anna",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/FulliconAddon_iridescentHead.png/revision/latest/scale-to-width-down/96?cb=20200716130451",
+        "image": "Huntress_portrait.png",
         "overview": "The Huntress is a ranged Killer, able to throw Hunting Hatchets at Survivors to injure them from a distance.\n",
         "power": {
             "powerName": "Hunting Hatchets",
@@ -1010,7 +1010,7 @@
     {
         "killerName": "Cannibal",
         "characterName": "Bubba_Sawyer",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/72/FulliconAddon_carburettorTuningGuide.png/revision/latest/scale-to-width-down/96?cb=20200714152137",
+        "image": "Cannibal_portrait.png",
         "overview": "The Cannibal is a chainsaw-wielding Killer, able to trigger a deadly frenzy using his Power, immediately downing anyone in its path.\n",
         "power": {
             "powerName": "",
@@ -1136,7 +1136,7 @@
     {
         "killerName": "Nightmare",
         "characterName": "Freddy_Krueger",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/64/FulliconAddon_blackBox.png/revision/latest/scale-to-width-down/96?cb=20200716132424",
+        "image": "Nightmare_portrait.png",
         "overview": "The Nightmare is a nightmare Killer, passively pulling Survivors into his Dream World where Survivors are vulnerable to his Dream Abilities. His Dream Projection ability allows him to quickly appear across the map and put pressure onto Survivors.\n",
         "power": {
             "powerName": "Dream Demon",
@@ -1262,7 +1262,7 @@
     {
         "killerName": "Pig",
         "characterName": "Amanda_Young",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/FulliconAddon_amandasLetter.png/revision/latest/scale-to-width-down/96?cb=20200716133738",
+        "image": "Pig_portrait.png",
         "overview": "The Pig is a tormenting Killer, able to crouch into stealth mode, then ambush Survivors from a short distance. She can also apply Reverse Bear Traps to downed Survivors, forcing them to remove it before the timer runs out, triggering an instant death.\n",
         "power": {
             "powerName": "",
@@ -1388,7 +1388,7 @@
     {
         "killerName": "Clown",
         "characterName": "Jeffrey_Hawk",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/FulliconAddon_redheadsPinkyFinger.png/revision/latest/scale-to-width-down/96?cb=20200716092824",
+        "image": "Clown_portrait.png",
         "overview": "The Clown is a strategic Killer, able to control and corral Survivors by throwing bottles of The Afterpiece Tonic to create clouds of noxious gas that cover large areas for a short amount of time. Survivors intoxicated by the gas are inflicted with impaired vision and movement speed, and give away their location by coughing loudly.\n",
         "power": {
             "powerName": "The Afterpiece Tonic",
@@ -1514,7 +1514,7 @@
     {
         "killerName": "Spirit",
         "characterName": "Rin_Yamaoka",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/42/FulliconAddon_fathersGlasses.png/revision/latest/scale-to-width-down/96?cb=20200715085430",
+        "image": "Spirit_portrait.png",
         "overview": "The Spirit is a phase-walking Killer, able to catch Survivors off-guard with her traversal Power, Yamaoka's Haunting. Her Power allows her to teleport from one place to another without being seen.\n",
         "power": {
             "powerName": "",
@@ -1640,7 +1640,7 @@
     {
         "killerName": "Legion",
         "characterName": "Frank,_Julie,_Susie,_Joey",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/FulliconAddon_fumingMixTape.png/revision/latest/scale-to-width-down/96?cb=20200714212415",
+        "image": "Legion_portrait.png",
         "overview": "The Legion is a band of merciless Killers, able to rush down helpless Survivors with their power, Feral Frenzy. Attacks made during their frenzy inflict lingering internal damage, downing any Survivors that are not quick enough to react.\n",
         "power": {
             "powerName": "Feral Frenzy",
@@ -1766,7 +1766,7 @@
     {
         "killerName": "Plague",
         "characterName": "Adiris",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/FulliconAddon_blackIncense.png/revision/latest/scale-to-width-down/96?cb=20200714205657",
+        "image": "Plague_portrait.png",
         "overview": "The Plague is a devout Killer, able to infect Survivors from a short distance using her Power, Vile Purge. Survivors inflicted by this contamination risk becoming injured or broken, unless they find a way to cure themselves in a Pool of Devotion.\n",
         "power": {
             "powerName": "Vile Purge",
@@ -1892,11 +1892,11 @@
     {
         "killerName": "Ghost Face",
         "characterName": "Danny_Johnson",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/FulliconAddon_outdoorSecurityCamera.png/revision/latest/scale-to-width-down/96?cb=20200714195301",
+        "image": "Ghost_Face_portrait.png",
         "overview": "The Ghost Face is a creepy Killer, able to stalk his victims and sneak up silently using his Power, Night Shroud. Affected Survivors will find themselves vulnerable and oblivious to his presence and must use all of their perception and awareness to protect themselves from his approach.\n",
         "power": {
             "powerName": "Night Shroud",
-            "powerDescription": "\nNIGHT SHROUD:\nPress the Power button to activate Night Shroud when the Power gauge is full.The Ghost Face is granted the Undetectable  Status Effect when Night Shroud is active.Performing a Basic Attack fully depletes the Power gauge and deactivates Night Shroud.\nReveal:\nSurvivors within close proximity to The Ghost Face may attempt to reveal him by looking in his direction for 1.5 seconds.A successful reveal fully depletes The Ghost Face's Power gauge and automatically deactivates Night Shroud for 30 seconds.Survivors who reveal The Ghost Face have their current location indicated by Killer Instinct for 2 seconds.\n\nSPECIAL ABILITY: Stalk\nHold down the Power button to stalk Survivors when Night Shroud is active.Hold down the Power button when behind cover to lean out and stalk at a faster rate (x2).Completing stalk progress on a Survivor will cause them to become Marked, applying the Exposed  Status Effect for 45 seconds.\n\nSPECIAL ABILITY: Crouch\nPress the Active Ability button to crouch.Press it again when crouched to stand.The Ghost Face moves at a slower speed when crouched (3.6 m/s).\n\n\"Don't mind me. That's it, keep going. Perfect. That's the image I'll keep of you.\" \u2014 The Ghost Face\n\n\nThere is currently 2 Achievements related to The Ghost Face.\n\nPlayers may customise their Character by choosing one outfit style from each category. Blood-stained attire is obtained after The Ghost Face reaches Level 50 and prestiges.\nThe Ghost Face's attire includes:\n\nThe Ghost Face is currently part of 1 DLC package:\n\n\n\n"
+            "powerDescription": "NIGHT SHROUD:\nPress the Power button to activate Night Shroud when the Power gauge is full.The Ghost Face is granted the Undetectable \u00a0 Status Effect when Night Shroud is active.Performing a Basic Attack fully depletes the Power gauge and deactivates Night Shroud.\nReveal:\nSurvivors within close proximity to The Ghost Face may attempt to reveal him by looking in his direction for 1.5 seconds.A successful reveal fully depletes The Ghost Face's Power gauge and automatically deactivates Night Shroud for 30 seconds.Survivors who reveal The Ghost Face have their current location indicated by Killer Instinct for 2 seconds.\nSPECIAL ABILITY: Stalk\nHold down the Power button to stalk Survivors when Night Shroud is active.Hold down the Power button when behind cover to lean out and stalk at a faster rate (x2).Completing stalk progress on a Survivor will cause them to become Marked, applying the Exposed \u00a0 Status Effect for 45 seconds.\nSPECIAL ABILITY: Crouch\nPress the Active Ability button to crouch.Press it again when crouched to stand.The Ghost Face moves at a slower speed when crouched (3.6 m/s).\n\"Don't mind me. That's it, keep going. Perfect. That's the image I'll keep of you.\" \u2014 The Ghost Face\n"
         },
         "teachables": [
             {
@@ -1916,109 +1916,109 @@
             {
                 "addonName": "\"Philly\"",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/FulliconAddon_philly.png/revision/latest/scale-to-width-down/96?cb=20200714195129",
-                "description": "A stolen camera from a victim of Olsen in Philadelphia, where he worked before. The film inside captured his last night in the city.\nSlightly reduces the Stalk time when not leaning from cover.\n\"Gotta love Philly: keeps giving and giving and I don't wanna forget any of it\". \u2014 The Ghost Face\n\n"
+                "description": "A stolen camera from a victim of Olsen in Philadelphia, where he worked before. The film inside captured his last night in the city.\nSlightly reduces the Stalk time when not leaning from cover.\"Gotta love Philly: keeps giving and giving and I don't wanna forget any of it\". \u2014 The Ghost Face\n\n"
             },
             {
                 "addonName": "Walleyes Matchbook",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/FulliconAddon_walleyesMatchbook.png/revision/latest/scale-to-width-down/96?cb=20200714195133",
-                "description": "A sheet of matches from Walleyes, a small bar in Northern Roseville. A victim's phone number is scribbled in blue. One of the incriminating pieces of evidence found.\nSlightly reduces Night Shroud Recovery time.\n"
+                "description": "A sheet of matches from Walleyes, a small bar in Northern Roseville. A victim's phone number is scribbled in blue. One of the incriminating pieces of evidence found.\nSlightly reduces Night Shroud Recovery time."
             },
             {
                 "addonName": "Headlines Cut-outs",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/FulliconAddon_headlinesCutouts.png/revision/latest/scale-to-width-down/96?cb=20200714195137",
-                "description": "Cut-outs of articles covering unsolved murder cases from Utah to Pennsylvania. While Ghost Face just authored some of the headlines, he committed all of the murders. Compiling your success makes you proud and boosts your confidence.\nSlightly increases Movement speed while Stalking.\n"
+                "description": "Cut-outs of articles covering unsolved murder cases from Utah to Pennsylvania. While Ghost Face just authored some of the headlines, he committed all of the murders. Compiling your success makes you proud and boosts your confidence.\nSlightly increases Movement speed while Stalking."
             },
             {
                 "addonName": "Cheap Cologne",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/39/FulliconAddon_cheapCologne.png/revision/latest/scale-to-width-down/96?cb=20200714195141",
-                "description": "Dollar store cologne with a pungent scent of rubbing alcohol. Worn by The Ghost Face to make his presence known. Reserved for impromptu visits.\nSlightly increases Marked duration on Survivors.\n"
+                "description": "Dollar store cologne with a pungent scent of rubbing alcohol. Worn by The Ghost Face to make his presence known. Reserved for impromptu visits.\nSlightly increases Marked duration on Survivors."
             },
             {
                 "addonName": "Telephoto Lens",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/FulliconAddon_telephotoLens.png/revision/latest/scale-to-width-down/96?cb=20200714195145",
-                "description": "A manual focus lens to remain undetected while taking pictures from afar.\nSlightly reduces the Stalk time when not leaning from cover.\nSlightly increases Marked duration on Survivors.\n"
+                "description": "A manual focus lens to remain undetected while taking pictures from afar.\nSlightly reduces the Stalk time when not leaning from cover.\nSlightly increases Marked duration on Survivors."
             },
             {
                 "addonName": "Reusable Cinch Straps",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/78/FulliconAddon_reusuableCinchStraps.png/revision/latest/scale-to-width-down/96?cb=20200714195150",
-                "description": "Black straps that keep everything in place while on the prowl.\nSlightly increases Movement speed when crouched.\n"
+                "description": "Black straps that keep everything in place while on the prowl.\nSlightly increases Movement speed when crouched."
             },
             {
                 "addonName": "Olsen's Journal",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f9/FulliconAddon_olsensJournal.png/revision/latest/scale-to-width-down/96?cb=20200714195155",
-                "description": "A spiral notebook filled with stained, handwritten entries. The journal details different equipment used to stalk victims. Going through your past methods triggers thrilling memories.\nModerately increases Movement speed while Stalking.\n"
+                "description": "A spiral notebook filled with stained, handwritten entries. The journal details different equipment used to stalk victims. Going through your past methods triggers thrilling memories.\nModerately increases Movement speed while Stalking."
             },
             {
                 "addonName": "Olsen's Address Book",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/be/FulliconAddon_olsensAddressBook.png/revision/latest/scale-to-width-down/96?cb=20200714195200",
-                "description": "Filled in blunt, blue crabbed writing. All the Roseville murder victims are listed there, along with their phone number and address.\nModerately reduces Night Shroud Recovery time.\n"
+                "description": "Filled in blunt, blue crabbed writing. All the Roseville murder victims are listed there, along with their phone number and address.\nModerately reduces Night Shroud Recovery time."
             },
             {
                 "addonName": "Marked Map",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/FulliconAddon_markedMap.png/revision/latest/scale-to-width-down/96?cb=20200714195204",
-                "description": "The annotated map of Northern Roseville, Florida. Each 'X' represents a victim of The Ghost Face. Mapping out your targets allows you to roam the streets undetected.\nSlightly increases Killer Instinct duration when The Ghost Face is revealed.\n"
+                "description": "The annotated map of Northern Roseville, Florida. Each 'X' represents a victim of The Ghost Face. Mapping out your targets allows you to roam the streets undetected.\nSlightly increases Killer Instinct duration when The Ghost Face is revealed."
             },
             {
                 "addonName": "Olsen's Wallet",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/15/FulliconAddon_olsensWallet.png/revision/latest/scale-to-width-down/96?cb=20200714195208",
-                "description": "Olsen's wallet holds thirty dollars in cash, a video club membership card, and a folded picture of Olsen's first Roseville victim. Carrying incriminating evidence boosts your excitement and resolve.\nConsiderably increases Movement speed while Stalking.\n"
+                "description": "Olsen's wallet holds thirty dollars in cash, a video club membership card, and a folded picture of Olsen's first Roseville victim. Carrying incriminating evidence boosts your excitement and resolve.\nConsiderably increases Movement speed while Stalking."
             },
             {
                 "addonName": "Leather Knife Sheath",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/ce/FulliconAddon_leatherKnifeSheath.png/revision/latest/scale-to-width-down/96?cb=20200714195213",
-                "description": "A quiet and flexible sheath to carry your blade. Movement is easier when things are fastened into place.\nModerately increases Movement speed when crouched.\n"
+                "description": "A quiet and flexible sheath to carry your blade. Movement is easier when things are fastened into place.\nModerately increases Movement speed when crouched."
             },
             {
                 "addonName": "Lasting Perfume",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8c/FulliconAddon_lastingPerfume.png/revision/latest/scale-to-width-down/96?cb=20200714195350",
-                "description": "An overpowering musky fragrance worn by Ghost Face to announce his presence. Reserved for the victims he planned to write about.\nModerately increases Marked duration on Survivors.\n"
+                "description": "An overpowering musky fragrance worn by Ghost Face to announce his presence. Reserved for the victims he planned to write about.\nModerately increases Marked duration on Survivors."
             },
             {
                 "addonName": "Knife Belt Clip",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a1/FulliconAddon_knifeBeltClip.png/revision/latest/scale-to-width-down/96?cb=20200714195221",
-                "description": "A perfect belt clip to scout carry your blade discreetly. No one knows what you are planning to do tonight.\nModerately reduces the Stalk time when not leaning from cover.\n"
+                "description": "A perfect belt clip to scout carry your blade discreetly. No one knows what you are planning to do tonight.\nModerately reduces the Stalk time when not leaning from cover."
             },
             {
                 "addonName": "Chewed Pen",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c4/FulliconAddon_chewedPen.png/revision/latest/scale-to-width-down/96?cb=20200714195226",
-                "description": "A blue pen with a chewed cap that holds traces of Danny's DNA. Incriminating evidence that was never found.\nConsiderably reduces Night Shroud Recovery time.\n"
+                "description": "A blue pen with a chewed cap that holds traces of Danny's DNA. Incriminating evidence that was never found.\nConsiderably reduces Night Shroud Recovery time."
             },
             {
                 "addonName": "Victim's Detailed Routine",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/FulliconAddon_victimsDetailedRoutine.png/revision/latest/scale-to-width-down/96?cb=20200714195230",
-                "description": "A ripped page outlining the weekly routine of Olsen's first victim in Roseville. Compiling your victim's habits allows you to anticipate their movements.\nModerately increases Killer Instinct duration when The Ghost Face is revealed.\nModerately decreases the Detection range to reveal The Ghost Face while Night Shroud is active.\n\"I've been watching you for a while. I wanted this to be special; the kind of headlines that people don't forget\". \u2014 The Ghost Face\n\n"
+                "description": "A ripped page outlining the weekly routine of Olsen's first victim in Roseville. Compiling your victim's habits allows you to anticipate their movements.\nModerately increases Killer Instinct duration when The Ghost Face is revealed.\nModerately decreases the Detection range to reveal The Ghost Face while Night Shroud is active.\"I've been watching you for a while. I wanted this to be special; the kind of headlines that people don't forget\". \u2014 The Ghost Face\n\n"
             },
             {
                 "addonName": "Night Vision Monocular",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e1/FulliconAddon_nightvisionMonocular.png/revision/latest/scale-to-width-down/96?cb=20200714195235",
-                "description": "Night vision lens enabling sharp photos even when shrouded in darkness. Ideal for discreet, impromptu visits late at night.\nConsiderably reduces the Stalk time when not leaning from cover.\n"
+                "description": "Night vision lens enabling sharp photos even when shrouded in darkness. Ideal for discreet, impromptu visits late at night.\nConsiderably reduces the Stalk time when not leaning from cover."
             },
             {
                 "addonName": "Drop-Leg Knife Sheath",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/FulliconAddon_drop-LegKnifeSheath.png/revision/latest/scale-to-width-down/96?cb=20200714195245",
-                "description": "A sheath allowing for a full motion range: ideal to inflict quick and powerful wounds while moving freely. Stolen from a patrol officer the night Danny left Philadelphia.\nConsiderably increases Movement speed when crouched.\n\"Gotta get ready like a scout \u2014 without the stupid patches. What I get is much better.\" \u2014 The Ghost Face\n\n"
+                "description": "A sheath allowing for a full motion range: ideal to inflict quick and powerful wounds while moving freely. Stolen from a patrol officer the night Danny left Philadelphia.\nConsiderably increases Movement speed when crouched.\"Gotta get ready like a scout \u2014 without the stupid patches. What I get is much better.\" \u2014 The Ghost Face\n\n"
             },
             {
                 "addonName": "Driver's License",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2c/FulliconAddon_driversLicense.png/revision/latest/scale-to-width-down/96?cb=20200714195249",
-                "description": "A driver's license revealing Olsen's true identity: Danny Johnson.\nConsiderably decreases the Detection range to reveal The Ghost Face while Night Shroud is active.\n\"They all want to know who Ghost Face is. But what they should ask is, who's next.\" \u2014 The Ghost Face\n\n"
+                "description": "A driver's license revealing Olsen's true identity: Danny Johnson.\nConsiderably decreases the Detection range to reveal The Ghost Face while Night Shroud is active.\"They all want to know who Ghost Face is. But what they should ask is, who's next.\" \u2014 The Ghost Face\n\n"
             },
             {
                 "addonName": "\"Ghost Face Caught on Tape\"",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e9/FulliconAddon_caughtOnTape.png/revision/latest/scale-to-width-down/96?cb=20200714195256",
-                "description": "A tape obtained by Olsen to write an article that terrorised Roseville.\nTremendously reduces the Stalk time when leaning from cover.\nTremendously increases the Stalk time when not leaning from cover.\n\"In this footage, a dark figure is seen entering a house late at night in Northern Roseville, Florida. The police were called the next morning to report a murder in the area. Lock your doors: a Killer is in our midst, roaming freely, like a ghost in the night.\" \u2014 The Roseville Gazette\n\n"
+                "description": "A tape obtained by Olsen to write an article that terrorised Roseville.\nTremendously reduces the Stalk time when leaning from cover.\nTremendously increases the Stalk time when not leaning from cover.\"In this footage, a dark figure is seen entering a house late at night in Northern Roseville, Florida. The police were called the next morning to report a murder in the area. Lock your doors: a Killer is in our midst, roaming freely, like a ghost in the night.\" \u2014 The Roseville Gazette\n\n"
             },
             {
                 "addonName": "Outdoor Security Camera",
                 "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/FulliconAddon_outdoorSecurityCamera.png/revision/latest/scale-to-width-down/96?cb=20200714195301",
-                "description": "A small surveillance camera that filmed Ghost Face breaking into a house on Belleview Road in Northern Roseville. The camera was positioned at the perfect angle to catch a glimpse of Ghost Face without providing any real clue to the police.\nThe Auras  of all Survivors outside of The Ghost Face's Terror Radius are revealed for 4 seconds when a Marked Survivor is put into the Dying State .\n\"An image is worth a thousand words\". \u2014 The Ghost Face\n\n"
+                "description": "A small surveillance camera that filmed Ghost Face breaking into a house on Belleview Road in Northern Roseville. The camera was positioned at the perfect angle to catch a glimpse of Ghost Face without providing any real clue to the police.\nThe Auras \u00a0 of all Survivors outside of The Ghost Face's Terror Radius are revealed for 4 seconds when a Marked Survivor is put into the Dying State \u00a0.\"An image is worth a thousand words\". \u2014 The Ghost Face\n\n"
             }
         ]
     },
     {
         "killerName": "Demogorgon",
         "characterName": "Demogorgon",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/FulliconAddon_redMoss.png/revision/latest/scale-to-width-down/96?cb=20200714194026",
+        "image": "Demogorgon_portrait.png",
         "overview": "The Demogorgon is an unidentified Killer, able to open multiple Portals and traverse between them to cover large distances. Using its Power, Of the Abyss, it can detect any Survivors within a close proximity to the Portals then unleash a leaping attack to inflict damage from a distance.\n",
         "power": {
             "powerName": "Of the Abyss",
@@ -2144,7 +2144,7 @@
     {
         "killerName": "Oni",
         "characterName": "Kazan_Yamaoka",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/FulliconAddon_iridescentFamilyCrest.png/revision/latest/scale-to-width-down/96?cb=20200714102635",
+        "image": "Oni_portrait.png",
         "overview": "The Oni is a monstrous Killer, able to absorb the blood energy of his injured foes, and then use that energy to transform into a brutal demon. Using his power, Yamaoka's Wrath, he can rush down Survivors at great speed and deal deadly strikes with his Kanab\u014d.\n",
         "power": {
             "powerName": "",
@@ -2270,7 +2270,7 @@
     {
         "killerName": "Deathslinger",
         "characterName": "Caleb_Quinn",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/FulliconAddon_hellshireIron.png/revision/latest/scale-to-width-down/96?cb=20200714100839",
+        "image": "Deathslinger_portrait.png",
         "overview": "The Deathslinger is a vengeful Killer, able to spear Survivors from a distance and reel them in using his Power, The Redeemer.\n",
         "power": {
             "powerName": "The Redeemer",
@@ -2396,7 +2396,7 @@
     {
         "killerName": "Executioner",
         "characterName": "Pyramid_Head",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f9/FulliconAddon_iridescentSealOfMetatron.png/revision/latest/scale-to-width-down/96?cb=20200714094615",
+        "image": "Executioner_portrait.png",
         "overview": "The Executioner is a map-manipulation Killer, able to torment Survivors with the hazards he creates. Affected Survivors will be vulnerable to his special Hook, the Cage of Atonement and his special mori, Final Judgement.\n",
         "power": {
             "powerName": "Rites of Judgement",
@@ -2522,7 +2522,7 @@
     {
         "killerName": "Blight",
         "characterName": "Talbot_Grimes",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/FulliconAddon_compoundThirtyThree.png/revision/latest/scale-to-width-down/96?cb=20200819232316",
+        "image": "Blight_portrait.png",
         "overview": "The Blight is an unpredictable Killer, able to rush forward in a burst of speed and carom off obstacles to injure Survivors using his power, Blighted Corruption.\n",
         "power": {
             "powerName": "Blighted Corruption",
@@ -2648,7 +2648,7 @@
     {
         "killerName": "Twins",
         "characterName": "Victor_&_Charlotte_Deshayes",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/de/FulliconAddon_iridescentPendant.png/revision/latest/scale-to-width-down/96?cb=20201111231958",
+        "image": "Twins_portrait.png",
         "overview": "The Twins are a cooperative pair of Killers, able to divide and hunt together using their Power, Blood Bond.\n",
         "power": {
             "powerName": "Blood Bond",

@@ -1,16 +1,9 @@
-import requests
-from bs4 import BeautifulSoup
 import json
+import pythonHelper as pyHelper
 
-def getSoupPage(url):
-    page = requests.get(url)
-    soup = BeautifulSoup(page.content, 'html.parser')
-    return soup
+#TODO clean up code
 
-BASEURL = 'https://deadbydaylight.fandom.com/wiki/'
-itemAddonsUrl = BASEURL + 'Addons#Item_Add-ons' 
-
-itemAddonsPage = getSoupPage(itemAddonsUrl)
+itemAddonsPage = pyHelper.getSoupPage(pyHelper.ITEMADDONSURL)
 
 itemIds = ['Flashlight', 'Key', 'Map', 'Med-Kit', 'Toolbox']
 addons = []
@@ -22,17 +15,20 @@ for item in itemIds:
         descriptionArray = []
         data = tr.find_all('a')
 
-        image = data[0].find('img').get('src')
         addonName = data[1].text
+
+        fileName = addonName.replace(' ',  '_').replace('"','') + '.png'
+        imageUrl = data[0].find('img').get('src')
+        pyHelper.downloadImage(fileName, imageUrl)
+
 
         descriptionArray.append(tr.find('td').text)
         description = ''.join([elem for elem in descriptionArray])
 
-        addon = {'item': item, 'image': image, 'addonName': addonName, 'description': description}
+        addon = {'item': item, 'image': fileName, 'addonName': addonName, 'description': description}
         addons.append(addon)
 
 addonsJson = json.dumps(addons, indent = 4)
 
-with open('../src/assets/data/itemAddons.json', 'w') as outfile:
-    outfile.write(addonsJson)
+pyHelper.createJson('../src/assets/data/itemAddons.json', addonsJson)
     

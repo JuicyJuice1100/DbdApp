@@ -1,7 +1,7 @@
 [
     {
         "survivorName": "Dwight Fairfield",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7a/Leader.gif/revision/latest/scale-to-width-down/128?cb=20200926195734",
+        "image": "Dwight_Fairfield_portrait.png",
         "overview": "Dwight Fairfield is a nervous Leader, able to locate his allies and increase their effectiveness.\n",
         "teachables": [
             {
@@ -20,7 +20,7 @@
     },
     {
         "survivorName": "Meg Thomas",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/af/Adrenaline.gif/revision/latest/scale-to-width-down/128?cb=20200926194941",
+        "image": "Meg_Thomas_portrait.png",
         "overview": "Meg Thomas is an energetic Athlete, able to outrun most Killers.\n",
         "teachables": [
             {
@@ -39,7 +39,7 @@
     },
     {
         "survivorName": "Claudette Morel",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/SelfCare.gif/revision/latest/scale-to-width-down/128?cb=20200926200040",
+        "image": "Claudette_Morel_portrait.png",
         "overview": "Claudette Morel is a studious Botanist, able to boost her team's survivability as well as her own.\n",
         "teachables": [
             {
@@ -58,7 +58,7 @@
     },
     {
         "survivorName": "Jake Park",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/Saboteur.gif/revision/latest/scale-to-width-down/128?cb=20200926200012",
+        "image": "Jake_Park_portrait.png",
         "overview": "Jake Park is a solitary Survivalist, able to hold his own in most situations.\n",
         "teachables": [
             {
@@ -77,7 +77,7 @@
     },
     {
         "survivorName": "Nea Karlsson",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ef/Streetwise.gif/revision/latest/scale-to-width-down/128?cb=20200926200221",
+        "image": "Nea_Karlsson_portrait.png",
         "overview": "Nea Karlsson is an Urban Artist, able to easily escape and hide.\n",
         "teachables": [
             {
@@ -96,7 +96,7 @@
     },
     {
         "survivorName": "Laurie Strode",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/44/DecisiveStrike.gif/revision/latest/scale-to-width-down/128?cb=20200926195301",
+        "image": "Laurie_Strode_portrait.png",
         "overview": "Laurie Strode is a determined Survivor, prepared to weather any challenge.\n",
         "teachables": [
             {
@@ -115,7 +115,7 @@
     },
     {
         "survivorName": "Ace Visconti",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/AceInTheHole.gif/revision/latest/scale-to-width-down/128?cb=20200926194931",
+        "image": "Ace_Visconti_portrait.png",
         "overview": "Ace Visconti is a lucky Gambler, improving the odds of the entire team.\n",
         "teachables": [
             {
@@ -134,7 +134,7 @@
     },
     {
         "survivorName": "William \"Bill\" Overbeck",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/Unbreakable.gif/revision/latest/scale-to-width-down/128?cb=20200926200316",
+        "image": "William_Bill_Overbeck_portrait.png",
         "overview": "Bill Overbeck is an old Soldier, accustomed to dealing with critical situations.\n",
         "teachables": [
             {
@@ -153,7 +153,7 @@
     },
     {
         "survivorName": "Feng Min",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e7/Alert.gif/revision/latest/scale-to-width-down/128?cb=20200501133722",
+        "image": "Feng_Min_portrait.png",
         "overview": "Feng Min is an objective-focused competitor who can quickly adapt her strategy to meet a vast range of challenging situations.\n",
         "teachables": [
             {
@@ -172,7 +172,7 @@
     },
     {
         "survivorName": "David King",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/NoMither.gif/revision/latest/scale-to-width-down/128?cb=20200501134118",
+        "image": "David_King_portrait.png",
         "overview": "David King is a rugged Scrapper, rewarding high-risk play.\n",
         "teachables": [
             {
@@ -191,7 +191,7 @@
     },
     {
         "survivorName": "Quentin Smith",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/16/Vigil.gif/revision/latest/scale-to-width-down/128?cb=20200501183028",
+        "image": "Quentin_Smith_portrait.png",
         "overview": "Quentin Smith is a resolute Dreamwalker, increasing the survivability and recovery of his team.\n",
         "teachables": [
             {
@@ -210,7 +210,7 @@
     },
     {
         "survivorName": "David Tapp",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/StakeOut.gif/revision/latest/scale-to-width-down/128?cb=20200926200213",
+        "image": "David_Tapp_portrait.png",
         "overview": "David Tapp is an obsessed Detective, able to locate and complete Objectives faster.\n",
         "teachables": [
             {
@@ -229,7 +229,7 @@
     },
     {
         "survivorName": "Kate Denson",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/BoilOver.gif/revision/latest/scale-to-width-down/128?cb=20200501134102",
+        "image": "Kate_Denson_portrait.png",
         "overview": "Kate Denson is a hopeful songbird, able to make the most of her surroundings.\n",
         "teachables": [
             {
@@ -248,7 +248,7 @@
     },
     {
         "survivorName": "Adam Francis",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/Autodidact.gif/revision/latest/scale-to-width-down/128?cb=20200926195031",
+        "image": "Adam_Francis_portrait.png",
         "overview": "Adam Francis is a resourceful Teacher, able to adapt to new circumstances and develop strategies accordingly.\n",
         "teachables": [
             {
@@ -267,7 +267,7 @@
     },
     {
         "survivorName": "Jeffrey \"Jeff\" Johansen",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/Distortion.gif/revision/latest/scale-to-width-down/128?cb=20200501134014",
+        "image": "Jeffrey_Jeff_Johansen_portrait.png",
         "overview": "Jeff Johansen is a quiet artist with a heart of gold, standing steadfast against impossible odds. He has a dark past but led a quiet, simple life until his father passed, leaving things to sort out.\n",
         "teachables": [
             {
@@ -286,7 +286,7 @@
     },
     {
         "survivorName": "Jane Romero",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/HeadOn.gif/revision/latest/scale-to-width-down/128?cb=20200926195520",
+        "image": "Jane_Romero_portrait.png",
         "overview": "Jane Romero is an influential celebrity, going against the grain to tackle challenges head on.\n",
         "teachables": [
             {
@@ -305,7 +305,7 @@
     },
     {
         "survivorName": "Ash J. Williams",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/45/MettleOfMan.gif/revision/latest/scale-to-width-down/128?cb=20200926195822",
+        "image": "Ash_J._Williams_portrait.png",
         "overview": "Ash Williams is an alone wolf, cocky and headstrong; a man built for survival.\n",
         "teachables": [
             {
@@ -324,7 +324,7 @@
     },
     {
         "survivorName": "Nancy Wheeler",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/30/InnerStrength.gif/revision/latest/scale-to-width-down/128?cb=20200926195639",
+        "image": "Nancy_Wheeler_portrait.png",
         "overview": "Nancy Wheeler is an aspiring journalist, able to make acute observations and gain insights that others may miss.\n",
         "teachables": [
             {
@@ -343,7 +343,7 @@
     },
     {
         "survivorName": "Steve Harrington",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/SecondWind.gif/revision/latest/scale-to-width-down/128?cb=20200926200032",
+        "image": "Steve_Harrington_portrait.png",
         "overview": "Steve Harrington is a former jock, able to protect and support his fellow Survivors while providing his own brand of humour.\n",
         "teachables": [
             {
@@ -362,7 +362,7 @@
     },
     {
         "survivorName": "Yui Kimura",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/50/Breakout.gif/revision/latest/scale-to-width-down/128?cb=20200501133910",
+        "image": "Yui_Kimura_portrait.png",
         "overview": "Yui Kimura is a hardened street racer, able to gain advantages for her and her fellow Survivors in challenging situations.\n",
         "teachables": [
             {
@@ -381,7 +381,7 @@
     },
     {
         "survivorName": "Zarina Kassir",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/27/ForThePeople.gif/revision/latest/scale-to-width-down/128?cb=20200501133846",
+        "image": "Zarina_Kassir_portrait.png",
         "overview": "Zarina Kassir is a plucky documentarian, able to use her street smarts to avoid detection and greatly assist other Survivors.\n",
         "teachables": [
             {
@@ -400,7 +400,7 @@
     },
     {
         "survivorName": "Cheryl Mason",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/RepressedAlliance.gif/revision/latest/scale-to-width-down/128?cb=20200602102141",
+        "image": "Cheryl_Mason_portrait.png",
         "overview": "Cheryl Mason is a young Veteran of Terror, emboldening both herself and her team.\n",
         "teachables": [
             {
@@ -419,7 +419,7 @@
     },
     {
         "survivorName": "Felix Richter",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/13/BuiltToLast.gif/revision/latest/scale-to-width-down/128?cb=20200927081957",
+        "image": "Felix_Richter_portrait.png",
         "overview": "Felix Richter is a visionary architect, able to use his relentless determination to form a plan and help other Survivors.\n",
         "teachables": [
             {
@@ -438,7 +438,7 @@
     },
     {
         "survivorName": "\u00c9lodie Rakoto",
-        "image": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d6/PowerStruggle.gif/revision/latest/scale-to-width-down/128?cb=20201112100809",
+        "image": "\u00c9lodie_Rakoto_portrait.png",
         "overview": "\u00c9lodie Rakoto is an occult investigator, able to use cunning tricks and stubborn resolve to keep herself alive.\n",
         "teachables": [
             {
