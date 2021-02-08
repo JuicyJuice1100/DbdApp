@@ -1,3 +1,15 @@
-<ion-item *ngFor="let build of builds">
-  {{build.name}}
-</ion-item>
+<ion-list *ngFor="let build of builds">
+  <ion-item button>
+    <ion-item-group>
+      <ion-label>{{build.name}}</ion-label>
+    </ion-item-group>
+    <ion-item-group class="build_powerItemContainer">
+      <ion-item class="build_powerItem">power/item</ion-item>
+      <ion-item class="build_addons">addons</ion-item>
+      <ion-item class="build_offering">offering</ion-item>
+    </ion-item-group>
+    <ion-item-group class="build_perkContainer">
+      <ion-item class="build_perks">perks</ion-item>
+    </ion-item-group>
+  </ion-item>
+</ion-list>
