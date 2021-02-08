@@ -1,9 +1,17 @@
 <ion-header>
   <ion-toolbar>
-    <ion-title>myBuilds</ion-title>
+    <ion-title>My Builds</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content>
+  <ion-searchbar (ionInput)="filterList($event)" color="primary"></ion-searchbar>
 
+  <ion-item *ngFor="let build of myBuilds">
+    {{build.name}}
+  </ion-item>
+
+  <ion-button routerLink="'/tabs/newBuild'" fill="clear" expand="full" size="large">
+    <ion-icon size="large" name="add-outline"></ion-icon>
+  </ion-button>
 </ion-content>

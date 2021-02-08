@@ -24,6 +24,10 @@ const routes: Routes = [
         loadChildren: () => import('../my-builds/my-builds-routing.module').then(m => m.MyBuildsPageRoutingModule)
       },
       {
+        path: 'newBuild',
+        loadChildren: () => import('../new-build/new-build-routing.module').then(m => m.NewBuildPageRoutingModule)
+      },
+      {
         path: '',
         redirectTo: '/tabs/myBuilds',
         pathMatch: 'full'
