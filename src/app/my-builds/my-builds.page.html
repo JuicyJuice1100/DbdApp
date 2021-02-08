@@ -7,9 +7,11 @@
 <ion-content>
   <ion-searchbar (ionInput)="filterList($event)" color="primary"></ion-searchbar>
 
-  <ion-item *ngFor="let build of myBuilds">
+  <!-- <ion-item *ngFor="let build of myBuilds">
     {{build.name}}
-  </ion-item>
+  </ion-item> -->
+
+  <app-build-container [builds]="myBuilds"></app-build-container>
 
   <ion-button routerLink="'/tabs/newBuild'" fill="clear" expand="full" size="large">
     <ion-icon size="large" name="add-outline"></ion-icon>

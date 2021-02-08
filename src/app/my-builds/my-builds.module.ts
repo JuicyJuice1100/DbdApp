@@ -8,13 +8,15 @@ import { MyBuildsPageRoutingModule } from './my-builds-routing.module';
 
 import { MyBuildsPage } from './my-builds.page';
 
+import { BuildContainerComponent } from '../build-container/build-container.component';
+
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    MyBuildsPageRoutingModule
+    MyBuildsPageRoutingModule,
   ],
-  declarations: [MyBuildsPage]
+  declarations: [MyBuildsPage, BuildContainerComponent]
 })
 export class MyBuildsPageModule {}

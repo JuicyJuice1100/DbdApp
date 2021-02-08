@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
   selector: 'app-build-container',
@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./build-container.component.scss'],
 })
 export class BuildContainerComponent implements OnInit {
+  @Input() builds: any;
 
   constructor() { }
 
